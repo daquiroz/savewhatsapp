@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="page">
-
-  {%- include header.html -%}
-
-  <h1> {% t title %} </h1>
   
-  {{ content }}
+  {%- include header.html title=page.title_en image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=page.subtitle_en -%}
+  
+  <div class="uk-container uk-container-small uk-padding">
+    {{ content }}
+  </div>
 
 </div>

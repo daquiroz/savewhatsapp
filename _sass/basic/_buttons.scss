@@ -1,0 +1,13 @@
+.btn-light {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  border: 3px solid;
+  border-radius: 10px;
+  &:hover, &:focus {
+    background: $dark;
+    color: $white;
+    border-color: $dark;
+  }
+}

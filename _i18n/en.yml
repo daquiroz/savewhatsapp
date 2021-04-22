@@ -6,3 +6,8 @@ problems_section:
   competition_title: Why this is a problem for competition
   consumers_title: Why this is a problem for consumers
   privacy_title: Why this is a problem for our privacy
+buttons:
+  learn_more: Learn More
+video_section:
+  title: Lorem ipsum dolor sit amet
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.

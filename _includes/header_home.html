@@ -1,7 +1,48 @@
 <header role="banner">
 
-  <div class="uk-position-relative">
-    <img src="{{site.baseurl_root}}/assets/images/mark-home.jpg" width="100%" alt="Mark">
+  <!-- Desktop version -->
+  <div class="uk-position-relative uk-visible@s">
+    <img src="{{site.baseurl_root}}/assets/images/mark_home.png" width="100%" alt="Mark">
+    <div class="uk-position-top">
+      <nav class="uk-navbar-container uk-navbar-transparent uk-container" uk-navbar>
+        <div class="uk-navbar-right">
+          <ul class="uk-navbar-nav">
+            <li><a href="#">About us</a></li>
+            <li>
+              {% if site.lang == "en" %}
+              {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                <a href="#">EN</a>
+                <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <li><a href="{{ link_es }}">ES</a></li>
+                  </ul>
+                </div>
+              {% elsif site.lang == "es" %}
+                {% capture link_en %}{{ site.baseurl_root }}/{{ page.url}}{% endcapture %}
+                <a href="#">ES</a>
+                <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <li><a href="{{ link_en }}">EN</a></li>
+                  </ul>
+                </div>
+              {% endif %}
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="uk-width-xlarge uk-position-center-left uk-padding-large">
+      <div>
+        <img src="{{site.baseurl_root}}/assets/images/header-logo.png" height="109" alt="Stop Facebook, Save Whatsapp">
+        <p class="white"> {% t header_home.subtitle %} </p>    
+      </div>
+    </div>
+  </div>
+  <!-- End desktop version -->
+
+  <!-- Mobile version -->
+  <div class="uk-position-relative uk-hidden@s">
+    <img src="{{site.baseurl_root}}/assets/images/mark_home_mobile.png" width="100%" alt="Mark">
     <div class="uk-position-top">
       <nav class="uk-navbar-container uk-navbar-transparent uk-container" uk-navbar>
         <div class="uk-navbar-right">

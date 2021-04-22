@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+$base-font-family: 'Mulish', sans-serif;
+$title-font-family: 'Anton', sans-serif;
+
+$green-1: #25D366;
+$green-2: #00BFA5;
+$green-3: #128C7E;
+$blue: #1778F2;
+$dark: #333333;
+$gray-1: #E4E4E4;
+$gray-1: #FAF9F8;
+$white: #FFF; 
+
+.green-1 {
+  color: #25D366;
+}
+.green-2 {
+  color: #00BFA5;
+}
+.green-3 {
+  color: #128C7E;
+}
+.blue {
+  color: #1778F2;
+}
+.dark {
+  color: #333333;
+}
+.gray-1 {
+  color: #E4E4E4;
+}
+.gray-1 {
+  color: #FAF9F8;
+}
+
+.bg-green-1 {
+  background-color: #25D366;
+}
+.bg-green-2 {
+  background-color: #00BFA5;
+}
+.bg-green-3 {
+  background-color: #128C7E;
+}
+.bg-blue {
+  background-color: #1778F2;
+}
+.bg-dark {
+  background-color: #333333;
+}
+.bg-gray-1 {
+  background-color: #E4E4E4;
+}
+.bg-gray-1 {
+  background-color: #FAF9F8;
+}
+
+// Import partials.
+@import
+  "basic/base",
+  "basic/layout"
+;

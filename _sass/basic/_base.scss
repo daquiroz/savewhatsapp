@@ -10,3 +10,12 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+a,
+.uk-navbar-item,
+.uk-navbar-toggle,
+.uk-navbar-nav > li > a {
+  font-family: $base-font-family;
+  text-transform: uppercase;
+  color: $white;
+  font-weight: bold;
+}

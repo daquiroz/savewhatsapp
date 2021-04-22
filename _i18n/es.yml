@@ -1,6 +1,11 @@
 title: Salva Whatsapp
 header_home:
   subtitle: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+problems_section:
+  title: Lo que Facebook no te dice
+  competition_title: ES Why this is a problem for competition
+  consumers_title: ES Why this is a problem for consumers
+  privacy_title: ES Why this is a problem for our privacy
 buttons:
   learn_more: Saber más
   more_to_share: Más para compartir

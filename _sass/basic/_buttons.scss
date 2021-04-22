@@ -2,11 +2,12 @@
   font-family: Mulish;
   font-style: normal;
   font-weight: 800;
-  font-size: 14px;
-  text-align: center;
   letter-spacing: 0.2em;
-  text-transform: uppercase;
-  background: transparent;
-  padding: 1em 1.5em;
+  border: 3px solid;
   border-radius: 10px;
+  &:hover, &:focus {
+    background: $dark;
+    color: $white;
+    border-color: $dark;
+  }
 }

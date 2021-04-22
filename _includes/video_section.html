@@ -1,13 +1,14 @@
-<section class="uk-section" uk-height-viewport>
+<section class="uk-section">
   <div class="uk-container">
     <div class="uk-grid-medium uk-child-width-1-2@m" uk-grid>
       <div>
-        <h2>Lorem ipsum dolor sit amet</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </p>
-        <button class="uk-button uk-button-default" type="button">{% t buttons.learn_more %}</button>
+        <h2>{%t video_section.title%}</h2>
+        <p>{%t video_section.description%}</p>
+        <button class="uk-button uk-button-default btn-light" type="button">{% t buttons.learn_more %}</button>
       </div>
       <div>
-        <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" uk-video="autoplay: inview"></video>
+        <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" controls 
+          preload="auto" poster="{{site.baseurl_root}}/assets/images/video_poster.png"></video>
       </div>
     </div>
   </div>

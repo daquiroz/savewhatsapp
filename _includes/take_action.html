@@ -1,0 +1,21 @@
+<div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
+  {% assign active_events = site.data.events | where: "active", "true" %}
+  {% if active_events.size > 0 %}
+    <div class="bg-green-3 uk-section uk-light">
+      <div class="uk-container">
+        {% assign title_content = "title_" | append: site.lang %}
+        {% assign desc_content = "description_" | append: site.lang %}
+        <h2>{{ active_events.first[title_content] }}</h2>
+        <p>{{ active_events.first[desc_content] }}</p>
+        <a href="#" class="uk-button uk-button-default btn-light" type="button">{% t buttons.join_event %}</a>
+      </div>
+    </div>
+  {% endif %}
+  <div class="bg-green-2 uk-section uk-light">
+    <div class="uk-container">
+      <h2>{%t take_action_section.title %}</h2>
+      <p>{%t take_action_section.description %}</p>
+      <a href="#" class="uk-button uk-button-default btn-light" type="button">{% t buttons.more_to_share %}</a>
+    </div>
+  </div>
+</div>

@@ -11,3 +11,8 @@ buttons:
 video_section:
   title: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+organizations_section:
+  title: A GLOBAL MOVEMENT FOR ACTION
+  subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook
+  button_read: read theIR letter to facebook and whatsapp
+  title_who: WHO IS DOING WHAT IN YOUR COUNTRY 

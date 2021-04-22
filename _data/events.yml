@@ -1,0 +1,12 @@
+- title_es: Evento 1
+  title_en: First event
+  description_es: Blablabla
+  description_en: BLUHBLUH
+  active: true
+
+- title_es: Evento 2
+  title_en: Second event
+  description_es: JeJeJe
+  description_en: HaHaHa
+  active: false
+  

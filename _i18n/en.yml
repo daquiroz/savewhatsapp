@@ -8,6 +8,8 @@ problems_section:
   privacy_title: Why this is a problem for our privacy
 buttons:
   learn_more: Learn More
+  more_to_share: More To Share
+  join_event: Join the event
 video_section:
   title: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
@@ -16,3 +18,6 @@ organizations_section:
   subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook
   button_read: read theIR letter to facebook and whatsapp
   title_who: WHO IS DOING WHAT IN YOUR COUNTRY 
+take_action_section:
+  title: Lorem ipsum dolor sit amet
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.

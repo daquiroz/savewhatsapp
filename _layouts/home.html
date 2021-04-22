@@ -4,9 +4,15 @@ layout: default
 
 <div class="home">
 
+  {% assign active_events = site.data.events | where: "active", "true" %}
+  {% if active_events.size > 0 %}
+    {%- include event_banner.html -%}
+  {% endif %}
+
   {%- include header_home.html -%}
   
   {%- include video_section.html -%}
+  {%- include take_action.html -%}
 
   {%- include problems_section.html -%}
   

@@ -23,3 +23,14 @@ a,
   color: $white;
   font-weight: bold;
 }
+
+a.a-green{
+  color: $green-1;
+  text-decoration: underline;
+  letter-spacing: 0.1rem;
+}
+
+a.a-green:hover,
+a.a-green:focus{
+  color: $green-2;
+}

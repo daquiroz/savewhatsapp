@@ -4,7 +4,9 @@ layout: default
 
 <div class="page">
   
-  {%- include header.html title=page.title_en image_name_mobile="who_mobile.png" image_name="who.png" -%}
+  {% assign title_lang = "title_" | append: site.lang %}
+  {% assign title = page[title_lang] %}
+  {%- include header.html title=title image_name_mobile="who_mobile.png" image_name="who.png" -%}
   
   <div class="uk-container uk-padding">
 

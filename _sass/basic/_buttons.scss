@@ -36,6 +36,7 @@
 
 .link-white{
   color: $white;
+  letter-spacing: 0.05rem;
   &:hover, &:focus {
     text-decoration: underline;
     color: $white;

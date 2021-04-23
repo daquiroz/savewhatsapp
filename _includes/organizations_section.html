@@ -7,7 +7,6 @@
             <a class="uk-button uk-button-primary btn-blue"> {% t organizations_section.button_read %} </a>
             <br>
             <img class="uk-padding" src="{{site.baseurl_root}}/assets/images/map.png" alt="Map">
-
         </div>
         
         <div class="uk-padding-large uk-text-center">
@@ -24,9 +23,9 @@
                             <li>
                                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                                     <img src="{{site.baseurl_root}}/assets/images/org/{{org.logo}}" alt="" width="100%">
-                                    <span class="uk-label bg-green-2 uk-margin-small">{{ org.country }}</span>
+                                    <span class="uk-label bg-green-2 uk-margin-small uk-margin-medium-top">{{ org.country }}</span>
                                     <h4 class="uk-card-title uk-margin-remove">{{ org.name }}</h4>
-                                    <p><span class="uk-text-bold">Actions:</span> {{org.actions}}</p>
+                                    <p class="uk-margin-small-top"><span class="uk-text-bold">Actions:</span> {{org.actions}}</p>
                                 </div>
                             </li>
                         {% endfor %}

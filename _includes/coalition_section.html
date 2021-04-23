@@ -1,0 +1,11 @@
+<section class="uk-section">
+  <div class="uk-container">
+    <h2 class="uk-text-center uk-margin-large-bottom">{% t coalition_section.title %}</h2>
+    <div class="uk-grid-large uk-child-width-1-4@s uk-text-center" uk-grid>
+      {% for organization in site.data.organizations %}
+        <img data-src="{{site.baseurl}}/assets/images/organizations/{{organization.logo}}" 
+          alt="{{organization.alt}}" uk-img>
+      {% endfor %}
+    </div>
+  </div>
+</section>

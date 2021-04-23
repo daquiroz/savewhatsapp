@@ -1,4 +1,5 @@
 title: Salva Whatsapp
+event_banner_text: Próximo evento lorem ipsum dolor sit amet
 header_home:
   subtitle: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
 problems_section:
@@ -16,3 +17,5 @@ video_section:
 take_action_section:
   title: ES Lorem ipsum dolor sit amet
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+coalition_section:
+  title: La Coalición

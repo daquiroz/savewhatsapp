@@ -42,3 +42,14 @@
     color: $white;
   }
 }
+
+.btn-to-top {
+  text-align: right;
+  border-radius: 50%;
+  background-color: $green-1;
+  color: white;
+  padding: 1em;
+  width: 1em;
+  height: 1em;
+  line-height: .7em;
+}

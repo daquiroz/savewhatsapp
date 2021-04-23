@@ -51,3 +51,13 @@ a.a-green:focus{
   font-weight: 700;
   letter-spacing: 0.1rem;
 }
+
+.table-header-row {
+  border-bottom: 2px solid black;
+  .table-header-data {
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: black;
+  }
+}

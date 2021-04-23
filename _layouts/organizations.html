@@ -6,7 +6,7 @@ layout: default
   
   {% assign title_lang = "title_" | append: site.lang %}
   {% assign title = page[title_lang] %}
-  {%- include header.html title=title image_name_mobile="who_mobile.png" image_name="who.png" -%}
+  {%- include header.html title=title image_name_mobile="who_mobile.png" image_name="who_web.png" -%}
   
   <div class="uk-container uk-padding">
 
@@ -27,6 +27,7 @@ layout: default
         </div>
       {% endfor %}
     </div>
+    <a class="btn-to-top uk-align-right uk-margin-medium-top" href="" uk-totop></a>
 
   </div>
 

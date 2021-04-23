@@ -12,6 +12,8 @@ buttons:
   more_to_share: Más para compartir
   join_event: Únete al evento
   see_all: Ver todo
+  read_letter_web: Lee su carta a Facebook y Whatsapp
+  read_letter_mobile: Lee la carta
 video_section:
   title: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
@@ -36,3 +38,12 @@ countdown:
   hours: Horas
   minutes: Minutos
   seconds: Segundos
+authorities:
+  title: Autoridades a lo largo del planeta se unieron para salvar whatsapp, detener facebook
+  description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
+  signatories: Signatári@s
+  t_headers:
+    name: Nombre
+    position: Posición
+    country: País
+    party: Partido

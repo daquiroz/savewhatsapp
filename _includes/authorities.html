@@ -1,0 +1,35 @@
+<section class="uk-section">
+  <div class="uk-container-small uk-align-center uk-text-center">
+    <h2 class="uk-width-xlarge uk-align-center">{% t authorities.title %}</h2>
+    <p>{% t authorities.description %}</p>
+    <a class="uk-button uk-button-primary btn-blue uk-hidden@s"> {% t buttons.read_letter_mobile %} </a>
+    <a class="uk-button uk-button-primary btn-blue uk-visible@s"> {% t buttons.read_letter_web %} </a>
+
+  </div>
+</section>
+<section class="uk-section">
+  <h2 class="uk-text-center">{% t authorities.signatories %}</h2>
+  <div class="uk-overflow-auto">
+    <table class="uk-table uk-table-justify uk-table-divider">
+      <thead>
+          <tr class="table-header-row">
+              <th class="table-header-data">{% t authorities.t_headers.name %}</th>
+              <th class="table-header-data">{% t authorities.t_headers.position %}</th>
+              <th class="table-header-data">{% t authorities.t_headers.country %}</th>
+              <th class="table-header-data">{% t authorities.t_headers.party %}</th>
+          </tr>
+      </thead>
+      <tbody>
+        {% for authority in site.data.authorities %}
+          <tr>
+            <td>{{ authority.name }}</td>
+            <td>{{ authority.position }}</td>
+            <td>{{ authority.country }}</td>
+            <td>{{ authority.party }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <a class="btn-to-top uk-align-right uk-margin-medium-top" href="" uk-totop></a>
+</section>

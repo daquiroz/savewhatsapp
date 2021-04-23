@@ -3,6 +3,25 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Primary Meta Tags -->
+  <title>{{site.title}}</title>
+  <meta name="title" content={{site.title}}>
+  <meta name="description" content={{site.description}}>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content={{site.baseurl}}>
+  <meta property="og:title" content={{site.title}}>
+  <meta property="og:description" content={{site.description}}>
+  <meta property="og:image" content="{{site.baseurl_root}}/assets/images/mark_image_og.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{site.baseurl}}">
+  <meta property="twitter:title" content="{{site.title}}">
+  <meta property="twitter:description" content={{site.description}}>
+  <meta property="twitter:image" content="{{site.baseurl_root}}/assets/images/mark_image_og.png">
+
   <!-- UIkit CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.19/dist/css/uikit.min.css" />
 
@@ -12,7 +31,7 @@
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Mulish:wght@400;500;600;700&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Mulish:wght@400;500;600;700;800&display=swap" rel="stylesheet"> 
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="page">
+  
+  {% assign title_lang = "title_" | append: site.lang %}
+  {% assign title = page[title_lang] %}
+  {%- include header.html title=title image_name_mobile="who_mobile.png" image_name="who_web.png" -%}
+  
+  <div class="uk-container uk-padding">
+
+    <div class="uk-padding">
+      <h2 class="uk-text-center">{% t organizations.title %}</h2>
+      <p class="uk-text-center">{% t organizations.description %}</h2>
+    </div>
+
+    <div uk-grid>
+      {% for org in site.data.organizations %}
+        <div class="uk-width-1-3@m ">
+          <div class="uk-card uk-card-default uk-card-small uk-card-body">
+              <img src="{{site.baseurl_root}}/assets/images/org/{{org.logo}}" alt="" width="100%">
+              <span class="uk-label bg-green-2 uk-margin-small uk-margin-medium-top">{{ org.country }}</span>
+              <h4 class="uk-card-title uk-margin-remove">{{ org.name }}</h4>
+              <p class="uk-margin-small-top"><span class="uk-text-bold">Actions:</span> {{org.actions}}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <a class="btn-to-top uk-align-right uk-margin-medium-top" href="" uk-totop></a>
+
+  </div>
+
+</div>

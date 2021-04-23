@@ -1,0 +1,12 @@
+- title_es: Evento 1
+  title_en: Join our next event
+  description_es: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  description_en: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  active: true
+
+- title_es: Evento 2
+  title_en: Second event
+  description_es: JeJeJe
+  description_en: HaHaHa
+  active: false
+  

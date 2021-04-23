@@ -33,6 +33,9 @@ $white: #FFF;
 .gray-2 {
   color: #FAF9F8;
 }
+.white{
+  color:$white;
+}
 
 .bg-green-1 {
   background-color: #25D366;
@@ -59,5 +62,6 @@ $white: #FFF;
 // Import partials.
 @import
   "basic/base",
-  "basic/layout"
+  "basic/layout",
+  "basic/buttons"
 ;

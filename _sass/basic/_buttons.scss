@@ -1,0 +1,55 @@
+.btn-light {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  border: 3px solid;
+  border-radius: 10px;
+  &:hover, &:focus {
+    background: $dark;
+    color: $white;
+    border-color: $dark;
+  }
+}
+.link-light {
+  text-decoration: underline;
+  &:hover, &:focus {
+    color: $gray-1;
+  }
+}
+
+.btn-blue {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  border: 3px solid;
+  border-color: $blue;
+  border-radius: 10px;
+  background-color: $blue;
+  &:hover, &:focus {
+    background-color: $white;
+    color: $blue;
+    border-color: $blue;
+  }
+}
+
+.link-white{
+  color: $white;
+  letter-spacing: 0.05rem;
+  &:hover, &:focus {
+    text-decoration: underline;
+    color: $white;
+  }
+}
+
+.btn-to-top {
+  text-align: right;
+  border-radius: 50%;
+  background-color: $green-1;
+  color: white;
+  padding: 1em;
+  width: 1em;
+  height: 1em;
+  line-height: .7em;
+}

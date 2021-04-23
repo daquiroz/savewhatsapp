@@ -31,3 +31,8 @@ organizations:
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
   title: La Coalición
+countdown:
+  days: Días
+  hours: Horas
+  minutes: Minutos
+  seconds: Segundos

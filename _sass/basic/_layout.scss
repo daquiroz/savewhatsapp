@@ -1,3 +1,36 @@
 .social-media{
     margin-top: 200px;
 }
+
+.countdown-container{
+    background-color: $blue;
+    color: $white;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.uk-countdown-label{
+    font-family: $base-font-family;
+}
+
+.uk-countdown-number{
+    font-family: $title-font-family;
+    font-size: 3rem;
+}
+
+.countdown-container-small{
+    background-color: $blue;
+    color: $white;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+}
+
+.uk-countdown-number-small{
+    font-size: 2.5rem;
+}

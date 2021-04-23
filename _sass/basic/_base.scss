@@ -10,6 +10,10 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+h4 {
+  font-weight: 700;
+}
+
 h3 {
   font-weight: 800;
 }
@@ -33,4 +37,17 @@ a.a-green{
 a.a-green:hover,
 a.a-green:focus{
   color: $green-2;
+}
+
+.uk-label{
+  border-radius: 0;
+}
+
+.uk-card{
+  border-radius: 6px;
+}
+
+.uk-label{
+  font-weight: 700;
+  letter-spacing: 0.1rem;
 }

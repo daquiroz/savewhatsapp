@@ -17,3 +17,28 @@
     color: $gray-1;
   }
 }
+
+.btn-blue {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  border: 3px solid;
+  border-color: $blue;
+  border-radius: 10px;
+  background-color: $blue;
+  &:hover, &:focus {
+    background-color: $white;
+    color: $blue;
+    border-color: $blue;
+  }
+}
+
+.link-white{
+  color: $white;
+  letter-spacing: 0.05rem;
+  &:hover, &:focus {
+    text-decoration: underline;
+    color: $white;
+  }
+}

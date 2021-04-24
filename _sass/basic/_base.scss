@@ -1,13 +1,30 @@
 /**
  * Reset some basic elements
  */
-body, h3, h4, h5, h6, p {
+ body {
+   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+   color: $dark !important;
+   -webkit-text-size-adjust: 100%;
+   -webkit-font-feature-settings: "kern" 1;
+      -moz-font-feature-settings: "kern" 1;
+        -o-font-feature-settings: "kern" 1;
+           font-feature-settings: "kern" 1;
+   font-kerning: normal;
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+
+h3, h4, h5, h6, p {
   font-family: $base-font-family;
+  color: $dark !important;
 }
 
 h1, h2 {
   font-family: $title-font-family;
   text-transform: uppercase;
+  color: $dark !important;
 }
 
 h4 {
@@ -53,11 +70,11 @@ a.a-green:focus{
 }
 
 .table-header-row {
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid $dark;
   .table-header-data {
     font-weight: bold;
     font-size: 18px;
     text-transform: capitalize;
-    color: black;
+    color: $dark;
   }
 }

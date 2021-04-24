@@ -1,0 +1,24 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Organizations"
+        name: "organizations"
+        file: "_data/organizations.yml"
+        fields:
+          - label: "Organization Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Website, name: website, widget: string}
+              - {label: Logo, name: logo, widget: string}
+              - {label: Actions, name: actions, widget: string}

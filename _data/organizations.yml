@@ -1,105 +1,107 @@
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+items:
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
-  
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
+    
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
 
-- name: Save Whatsapp
-  website: https://savewhatsapp.org
-  country: Country
-  actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  logo: logo.png
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png
+
+  - name: Save Whatsapp
+    website: https://savewhatsapp.org
+    country: Country
+    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    logo: logo.png

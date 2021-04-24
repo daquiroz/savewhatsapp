@@ -1,20 +1,22 @@
-- logo: logo_missing.png
-  alt: Logo 1
+items:
 
-- logo: logo_missing.png
-  alt: Logo 2
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 1
 
-- logo: logo_missing.png
-  alt: Logo 3
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 2
 
-- logo: logo_missing.png
-  alt: Logo 4
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 3
 
-- logo: logo_missing.png
-  alt: Logo 5
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 4
 
-- logo: logo_missing.png
-  alt: Logo 6
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 5
 
-- logo: logo_missing.png
-  alt: Logo 7
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 6
+
+  - logo: /assets/images/coalitions/logo_missing.png
+    alt: Logo 7

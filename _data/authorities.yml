@@ -1,44 +1,46 @@
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+items:
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
 
-- name: Lorem ipsum dolor
-  position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-  country: Lorem ipsum dolor
-  party: Lorem ipsum dolor sit amet
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet
+
+  - name: Lorem ipsum dolor
+    position: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+    country: Lorem ipsum dolor
+    party: Lorem ipsum dolor sit amet

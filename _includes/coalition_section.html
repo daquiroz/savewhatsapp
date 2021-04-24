@@ -2,9 +2,9 @@
   <div class="uk-container">
     <h2 class="uk-text-center uk-margin-large-bottom">{% t coalition_section.title %}</h2>
     <div class="uk-grid-large uk-child-width-1-4@s uk-text-center" uk-grid>
-      {% for coalition in site.data.coalitions %}
+      {% for coalition in site.data.coalitions.items %}
         <a href="#" target="_blank">
-          <img data-src="{{site.baseurl}}/assets/images/coalitions/{{coalition.logo}}" 
+          <img data-src="{{site.baseurl}}{{coalition.logo}}" 
             alt="{{coalition.alt}}" uk-img>
         </a>
       {% endfor %}

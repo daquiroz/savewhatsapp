@@ -22,3 +22,41 @@ collections:
               - {label: Website, name: website, widget: string}
               - {label: Logo, name: logo, widget: image}
               - {label: Actions, name: actions, widget: string}
+      - label: "Events"
+        name: "events"
+        file: "_data/events.yml"
+        fields:
+          - label: "Event Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Title_EN, name: title_en, widget: string}
+              - {label: Title_ES, name: title_es, widget: string}
+              - {label: Description_EN, name: description_en, widget: string}
+              - {label: Description_ES, name: description_es, widget: string}
+              - {label: Active, name: active, widget: boolean}
+      - label: "Authorities"
+        name: "authorities"
+        file: "_data/authorities.yml"
+        fields:
+          - label: "Authorities Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Country, name: country, widget: string}
+              - {label: Party, name: party, widget: string}
+      - label: "Coalitions"
+        name: "coalitions"
+        file: "_data/coalitions.yml"
+        fields:
+          - label: "Coalition Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Logo, name: logo, widget: image}
+              - {label: alt, name: alt, widget: string}
+              - {label: Description_EN, name: description_en, widget: string}
+              - {label: Description_ES, name: description_es, widget: string}
+              - {label: Active, name: active, widget: boolean}

@@ -20,7 +20,7 @@
           </tr>
       </thead>
       <tbody>
-        {% for authority in site.data.authorities %}
+        {% for authority in site.data.authorities.items %}
           <tr>
             <td>{{ authority.name }}</td>
             <td>{{ authority.position }}</td>

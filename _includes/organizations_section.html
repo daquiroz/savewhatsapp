@@ -22,7 +22,7 @@
                         {% for org in site.data.organizations.items %}
                             <li>
                                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
-                                    <img src="{{site.baseurl_root}}/assets/images/org/{{org.logo}}" alt="" width="100%">
+                                    <img src="{{site.baseurl_root}}{{org.logo}}" alt="" width="100%">
                                     <span class="uk-label bg-green-2 uk-margin-small uk-margin-medium-top">{{ org.country }}</span>
                                     <h4 class="uk-card-title uk-margin-remove">{{ org.name }}</h4>
                                     <p class="uk-margin-small-top"><span class="uk-text-bold">Actions:</span> {{org.actions}}</p>

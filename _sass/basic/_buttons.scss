@@ -8,7 +8,7 @@
   font-weight: 800;
   letter-spacing: 0.2em;
   border: 3px solid $dark !important;
-  border-radius: 10px;
+  border-radius: 0;
   color: $dark !important;
   &:hover, &:focus {
     background: $dark !important;
@@ -23,7 +23,7 @@
   font-weight: 800;
   letter-spacing: 0.2em;
   border: 3px solid $white !important;
-  border-radius: 10px;
+  border-radius: 0;
   color: $white !important;
   &:hover, &:focus {
     background: $white !important;
@@ -45,7 +45,7 @@
   letter-spacing: 0.2em;
   border: 3px solid;
   border-color: $blue;
-  border-radius: 10px;
+  border-radius: 0;
   background-color: $blue;
   &:hover, &:focus {
     background-color: $white;

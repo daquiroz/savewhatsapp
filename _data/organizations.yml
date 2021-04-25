@@ -1,109 +1,103 @@
 items:
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+  - name: SumOfUs
+    website: https://www.sumofus.org/pt/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: Legal challenges in Brazil
+    logo: /assets/uploads/sum_of_us.png
+  - name: Public Citizen
+    website: https://citizen.org
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: Organizing a webinar on the evolving business model of WhatsApp
+    logo: /assets/uploads/public_citizen.png
+  - name: Instituto Brasileiro de Defesa do Consumidor
+    website: https://idec.org.br
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: We sent a notification to Brazilian authorities (consumer's authority,
+      data protection authority and Prosecution Service's division of Cade)
+      asking a joint action to suspend the update and with 40 unanswered
+      questions to be sent to Whatsapp and Facebook.
+    logo: /assets/uploads/idec.png
+  - name: Fundación Vía Libre
+    website: https://www.vialibre.org.ar
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: We are talking to authorities in Argentina. Also taking part in media
+      actions and campaigns.
+    logo: /assets/uploads/fundacion_via_libre.png
+  - name: Movimento Mulheres Negras Decidem
+    website: https://mulheresnegrasdecidem.org/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/mulheres_negras_decidem.png
+  - name: SHARE Foundation
+    website: https://www.sharefoundation.info/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: We wrote a blog post in Serbian about the case of India v. WhatsApp.
+    logo: /assets/uploads/share_foundation.png
+  - name: amandla.mobi
+    website: https://amandla.mobi/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/amandla.png
+  - name: Fundación Karisma
+    website: https://www.karisma.org.co
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: Nuestra directora Carolina Botero realizó un artículo de Opinión para
+      el diario El Espectador en Colombia
+    logo: /assets/uploads/karisma.png
+  - name: Derechos Digitales
+    website: https://www.derechosdigitales.org/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: Preparing a regional declaration with other 11 digital rights
+      organisations working in Latin America (Al Sur)
+    logo: /assets/uploads/derechos_digitales.png
+  - name: Fight for the Future
+    website: https://fightforthefuture.org
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/fight_future.png
+  - name: EngageMedia
+    website: https://engagemedia.org
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/engage_media.png
+  - name: OISIA
+    website: https://untref.edu.ar/unidades-de-investigacion-untref
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/oisia.png
+  - name: IT for Change
+    website: https://itforchange.net/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/it_for_change.png
+  - name: TEDIC
+    website: https://www.tedic.org/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: At the moment, we wrote an article summarizing what is happening with
+      WhatsApp. This was already published and the plan was to move this in
+      social media again.
+    logo: /assets/uploads/tedic.png
+  - name: Foundation for Media Alternatives
+    website: https://fma.ph
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/media_alternatives.png
+  - name: SMEX
+    website: https://smex.org
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: https://twitter.com/SMEX/status/1384176964781543432
+    logo: /assets/uploads/smex.png
+  - name: Association for Progressive Communications
+    website: https://www.apc.org
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
-  - name: Save Whatsapp
-    website: https://savewhatsapp.org
+    actions: .
+    logo: /assets/uploads/apc.png
+  - name: Labor Council for Latin American Advancement
+    website: https://lclaa.org/
     country: Country
-    actions: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-      commodo ligula eget dolor. Aenean massa.
-    logo: /assets/uploads/logo_missing.png
+    actions: .
+    logo: /assets/uploads/lclaa.png
+  - name: Center for Digital Democracy
+    actions: .
+    website: https://www.democraticmedia.org
+    logo: /assets/uploads/digital_democracy.png

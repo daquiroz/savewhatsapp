@@ -1,62 +1,91 @@
 @charset "utf-8";
 
-$base-font-family: 'Mulish', sans-serif;
-$title-font-family: 'Anton', sans-serif;
+$base-font-family: 'Mulish', sans-serif !default;
+$title-font-family: 'Anton', sans-serif !default;
+$base-font-size:   0.9rem !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.9 !default;
+
+$spacing-unit:     30px !default;
+
+// Project colors
+
+$text-color:           #232323 !default;
+$background-color:     white !default;
+$black:                #232323 !default;
+
 
 $green-1: #25D366;
 $green-2: #00BFA5;
 $green-3: #128C7E;
 $blue: #1778F2;
-$dark: #333333;
+$dark: #101E22;
 $gray-1: #E4E4E4;
 $gray-2: #FAF9F8;
-$white: #FFF; 
+$white: #FFF;
 
 .green-1 {
-  color: #25D366;
+  color: $green-1;
 }
 .green-2 {
-  color: #00BFA5;
+  color: $green-2;
 }
 .green-3 {
-  color: #128C7E;
+  color: $green-3;
 }
 .blue {
-  color: #1778F2;
+  color: $blue;
 }
 .dark {
-  color: #333333;
+  color: $dark;
 }
 .gray-1 {
-  color: #E4E4E4;
+  color: $gray-1;
 }
 .gray-2 {
-  color: #FAF9F8;
+  color: $gray-2;
 }
 .white{
-  color:$white;
+  color: $white;
 }
 
 .bg-green-1 {
-  background-color: #25D366;
+  background-color: $green-1;
 }
 .bg-green-2 {
-  background-color: #00BFA5;
+  background-color: $green-2;
+  p, h2, h3, h4, h5{
+    color: $white !important;
+  }
 }
 .bg-green-3 {
-  background-color: #128C7E;
+  background-color: $green-3;
+  p, h2, h3, h4, h5{
+    color: $white !important;
+  }
 }
 .bg-blue {
-  background-color: #1778F2;
+  background-color: $blue;
 }
 .bg-dark {
-  background-color: #333333;
+  background-color: $dark;
 }
 .bg-gray-1 {
-  background-color: #E4E4E4;
+  background-color: $gray-1;
 }
 .bg-gray-2 {
-  background-color: #FAF9F8;
+  background-color: $gray-2;
+}
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
 }
 
 // Import partials.

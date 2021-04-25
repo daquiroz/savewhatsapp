@@ -19,7 +19,7 @@ collections:
             widget: "list"
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Country, name: name, widget: string}
+              - {label: Country, name: country, widget: string}
               - {label: Website, name: website, widget: string, required: false}
               - {label: Logo, name: logo, widget: image}
               - {label: Featured, name: featured, widget: boolean}

@@ -30,7 +30,7 @@ items:
   - name: Movimento Mulheres Negras Decidem
     website: https://mulheresnegrasdecidem.org/
     country: Country
-    actions: .
+    actions: ""
     featured: false
     logo: /assets/uploads/mulheres_negras_decidem.png
   - name: SHARE Foundation

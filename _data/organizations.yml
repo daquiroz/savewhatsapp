@@ -116,7 +116,7 @@ items:
     featured: false
     logo: /assets/uploads/lclaa.png
   - name: Center for Digital Democracy
-    actions: .
+    actions: " "
     website: https://www.democraticmedia.org
     featured: false
     logo: /assets/uploads/digital_democracy.png

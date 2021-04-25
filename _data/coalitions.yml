@@ -1,22 +1,96 @@
 items:
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 1
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 2
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 3
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 4
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 5
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 6
-
-  - logo: /assets/images/coalitions/logo_missing.png
-    alt: Logo 7
+  - logo: /assets/uploads/sum_of_us.png
+    alt: SumOfUs
+    active: true
+    description_en: SumOfUs
+    description_es: SumOfUs
+  - logo: /assets/uploads/public_citizen.png
+    alt: Public Citizen
+    active: true
+    description_en: Public Citizen
+    description_es: Public Citizen
+  - logo: /assets/uploads/idec.png
+    alt: Instituto Brasileiro de Defesa do Consumidor
+    active: true
+    description_en: Instituto Brasileiro de Defesa do Consumidor
+    description_es: Instituto Brasileiro de Defesa do Consumidor
+  - logo: /assets/uploads/fundacion_via_libre.png
+    alt: Fundación Vía Libre
+    active: true
+    description_en: Fundación Vía Libre
+    description_es: Fundación Vía Libre
+  - logo: /assets/uploads/mulheres_negras_decidem.png
+    alt: Movimento Mulheres Negras Decidem
+    active: true
+    description_en: Movimento Mulheres Negras Decidem
+    description_es: Movimento Mulheres Negras Decidem
+  - logo: /assets/uploads/share_foundation.png
+    alt: SHARE Foundation
+    active: true
+    description_en: SHARE Foundation
+    description_es: SHARE Foundation
+  - logo: /assets/uploads/amandla.png
+    alt: amandla.mobi
+    active: true
+    description_en: amandla.mobi
+    description_es: amandla.mobi
+  - alt: Fundación Karisma
+    logo: /assets/uploads/karisma.png
+    active: true
+    description_en: Fundación Karisma
+    description_es: Fundación Karisma
+  - logo: /assets/uploads/derechos_digitales.png
+    alt: Derechos Digitales
+    active: true
+    description_en: Derechos Digitales
+    description_es: Derechos Digitales
+  - logo: /assets/uploads/fight_future.png
+    alt: Fight for the Future
+    active: true
+    description_en: Fight for the Future
+    description_es: Fight for the Future
+  - logo: /assets/uploads/engage_media.png
+    alt: EngageMedia
+    active: true
+    description_en: EngageMedia
+    description_es: EngageMedia
+  - logo: /assets/uploads/oisia.png
+    alt: OISIA
+    active: true
+    description_en: OISIA
+    description_es: OISIA
+  - logo: /assets/uploads/it_for_change.png
+    alt: IT for Change
+    active: true
+    description_en: IT for Change
+    description_es: IT for Change
+  - logo: /assets/uploads/tedic.png
+    alt: TEDIC
+    active: true
+    description_en: TEDIC
+    description_es: TEDIC
+  - logo: /assets/uploads/media_alternatives.png
+    alt: Foundation for Media Alternatives
+    active: true
+    description_en: Foundation for Media Alternatives
+    description_es: Foundation for Media Alternatives
+  - alt: SMEX
+    logo: /assets/uploads/smex.png
+    active: true
+    description_en: SMEX
+    description_es: SMEX
+  - logo: /assets/uploads/apc.png
+    alt: Association for Progressive Communications
+    active: true
+    description_en: Association for Progressive Communications
+    description_es: Association for Progressive Communications
+  - alt: Labor Council for Latin American Advancement
+    logo: /assets/uploads/lclaa.png
+    active: true
+    description_en: Labor Council for Latin American Advancement
+    description_es: Labor Council for Latin American Advancement
+  - logo: /assets/uploads/digital_democracy.png
+    alt: Center for Digital Democracy
+    active: true
+    description_en: Center for Digital Democracy
+    description_es: Center for Digital Democracy

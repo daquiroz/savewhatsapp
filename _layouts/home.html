@@ -10,29 +10,29 @@ layout: default
     {% if active_events.size > 0 %}
       {%- include event_banner.html -%}
     {% endif %}
-  
+
     {%- include header_home.html -%}
-    
+
     {%- include video_section.html -%}
-  
+
     {%- include problems_section.html -%}
-  
+
     {%- include take_action.html -%}
-    
+
     {%- include organizations_section.html -%}
-  
+
     {%- include coalition_section.html -%}
-  
+
   </div>
 
 
-  <div class="uk-position-top-right uk-text-right uk-position-fixed social-media uk-visible@s">
+  <div class="uk-position-top-right uk-text-right uk-position-fixed social-media uk-visible@s" style="width: 7rem">
     <div class="uk-child-width-1-1 uk-padding-remove uk-margin-remove" uk-grid>
       <div>
-        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsavewhatsapp.org%2F&amp;src=sdkpreparse"><img src="{{site.baseurl_root}}/assets/images/share/share_facebook.png" width="70px" alt="Share Facebook"></a>
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsavewhatsapp.org%2F&amp;src=sdkpreparse"><img src="{{site.baseurl_root}}/assets/images/share/share_facebook.png" width="70px" style="margin-bottom: -30px;" alt="Share Facebook"></a>
       </div>
       <div>
-        <a href="whatsapp://send?text=https://savewhatsapp.org"><img src="{{site.baseurl_root}}/assets/images/share/share_wsp.png" width="70px" alt="Share Whatsapp"></a>
+        <a href="whatsapp://send?text=https://savewhatsapp.org"><img src="{{site.baseurl_root}}/assets/images/share/share_wsp.png" width="70px" style="margin-bottom: -30px;" alt="Share Whatsapp"></a>
       </div>
       <div>
         <!-- https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview -->
@@ -41,6 +41,3 @@ layout: default
     </div>
   </div>
 </div>
-
-
-

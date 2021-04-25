@@ -19,10 +19,11 @@ collections:
             widget: "list"
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Country, name: country, widget: string}
-              - {label: Website, name: website, widget: string}
+              - {label: Country, name: name, widget: string}
+              - {label: Website, name: website, widget: string, required: false}
               - {label: Logo, name: logo, widget: image}
-              - {label: Actions, name: actions, widget: string}
+              - {label: Featured, name: featured, widget: boolean}
+              - {label: Actions, name: actions, widget: string, required: false}
       - label: "Events"
         name: "events"
         file: "_data/events.yml"

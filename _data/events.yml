@@ -1,14 +1,11 @@
-items: 
-
-- title_es: Webinar - How WhatsApp is moving into commerce
-  title_en: Webinar - How WhatsApp is moving into commerce
-  description_es: How WhatsApp is moving into commerce
-  description_en: How WhatsApp is moving into commerce
-  active: true
-
-- title_es: Evento 2
-  title_en: Second event
-  description_es: JeJeJe
-  description_en: HaHaHa
-  active: false
-  
+items:
+  - title_es: Webinar - How WhatsApp is moving into commerce
+    title_en: Webinar - How WhatsApp is moving into commerce
+    description_es: April 30 - 9AM (EDT)
+    description_en: How WhatsApp is moving into commerce
+    active: true
+  - title_es: Evento 2
+    title_en: Second event
+    description_es: JeJeJe
+    description_en: HaHaHa
+    active: false

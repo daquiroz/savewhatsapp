@@ -1,42 +1,39 @@
 items:
   - name: SumOfUs
     website: https://www.sumofus.org/pt/
-    country: Country
-    actions_en: Legal challenges in Brazil
-    actions_es: Legal challenges in Brazil
-    actions_pt: Legal challenges in Brazil
+    country: Brazil
+    actions_en: Urging authorities to act
+    actions_es: Urging authorities to act
+    actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/sum_of_us.png
   - name: Public Citizen
     website: https://citizen.org
-    country: Country
-    actions_en: Organizing a webinar on the evolving business model of WhatsApp
-    actions_es: Organizing a webinar on the evolving business model of WhatsApp
-    actions_pt: Organizing a webinar on the evolving business model of WhatsApp
+    country: United States
+    actions_en: Organizing public events
+    actions_es: Organizing public events
+    actions_pt: Organizing public events
     featured: true
     logo: /assets/uploads/public_citizen.png
   - name: Instituto Brasileiro de Defesa do Consumidor
     website: https://idec.org.br
-    country: Country
-    actions_en: We sent a notification to Brazilian authorities (consumer's authority,
-    actions_es: We sent a notification to Brazilian authorities (consumer's authority,
-    actions_pt: We sent a notification to Brazilian authorities (consumer's authority,
-      data protection authority and Prosecution Service's division of Cade)
-      asking a joint action to suspend the update and with 40 unanswered
-      questions to be sent to Whatsapp and Facebook.
+    country: Brazil
+    actions_en: Urging authorities to act
+    actions_es: Urging authorities to act
+    actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/idec.png
   - name: Fundación Vía Libre
     website: https://www.vialibre.org.ar
-    country: Country
-    actions_en: We are talking to authorities in Argentina. Also taking 
-    actions_es: We are talking to authorities in Argentina. Also taking 
-    actions_pt: We are talking to authorities in Argentina. Also taking 
+    country: Argentina
+    actions_en: Urging authorities to act
+    actions_es: Urging authorities to act
+    actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/fundacion_via_libre.png
   - name: Movimento Mulheres Negras Decidem
     website: https://mulheresnegrasdecidem.org/
-    country: Country
+    country: Brazil
     actions_en: ""
     actions_es: ""
     actions_pt: ""
@@ -44,117 +41,113 @@ items:
     logo: /assets/uploads/mulheres_negras_decidem.png
   - name: SHARE Foundation
     website: https://www.sharefoundation.info/
-    country: Country
-    actions_en: We wrote a blog post in Serbian about the case of India v. WhatsApp.
-    actions_es: We wrote a blog post in Serbian about the case of India v. WhatsApp.
-    actions_pt: We wrote a blog post in Serbian about the case of India v. WhatsApp.
-    featured: false
+    country: Serbia
+    actions_en: Publishing analysis
+    actions_es: Publishing analysis
+    actions_pt: Publishing analysis
+    featured: true
     logo: /assets/uploads/share_foundation.png
   - name: amandla.mobi
     website: https://amandla.mobi/
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: South Africa
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/amandla.png
   - name: Fundación Karisma
     website: https://www.karisma.org.co
-    country: Country
-    actions_en: Nuestra directora Carolina Botero realizó un artículo de Opinión para
-    actions_es: Nuestra directora Carolina Botero realizó un artículo de Opinión para
-    actions_pt: Nuestra directora Carolina Botero realizó un artículo de Opinión para
-      el diario El Espectador en Colombia
-    featured: false
+    country: Colombia
+    actions_en: "Publishing analysis"
+    actions_es: "Publishing analysis"
+    actions_pt: "Publishing analysis"
+    featured: true
     logo: /assets/uploads/karisma.png
   - name: Derechos Digitales
     website: https://www.derechosdigitales.org/
-    country: Country
+    country: Chile
     actions_en: Preparing a regional declaration with other 11 digital rights
     actions_es: Preparing a regional declaration with other 11 digital rights
     actions_pt: Preparing a regional declaration with other 11 digital rights
-      organisations working in Latin America (Al Sur)
     featured: false
     logo: /assets/uploads/derechos_digitales.png
   - name: Fight for the Future
     website: https://fightforthefuture.org
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: United States
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/fight_future.png
   - name: EngageMedia
     website: https://engagemedia.org
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: Indonesia
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/engage_media.png
   - name: OISIA
     website: https://untref.edu.ar/unidades-de-investigacion-untref
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: Argentina
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/oisia.png
   - name: IT for Change
     website: https://itforchange.net/
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: India
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/it_for_change.png
   - name: TEDIC
     website: https://www.tedic.org/
-    country: Country
-    actions_en: At the moment, we wrote an article summarizing what is happening with
-    actions_es: At the moment, we wrote an article summarizing what is happening with
-    actions_pt: At the moment, we wrote an article summarizing what is happening with
-      WhatsApp. This was already published and the plan was to move this in
-      social media again.
-    featured: false
+    country: Paraguay
+    actions_en: "Publishing analysis"
+    actions_es: "Publishing analysis"
+    actions_pt: "Publishing analysis"
+    featured: true
     logo: /assets/uploads/tedic.png
   - name: Foundation for Media Alternatives
     website: https://fma.ph
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: Philippines
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/media_alternatives.png
   - name: SMEX
     website: https://smex.org
-    country: Country
-    actions_en: https://twitter.com/SMEX/status/1384176964781543432
-    actions_es: https://twitter.com/SMEX/status/1384176964781543432
-    actions_pt: https://twitter.com/SMEX/status/1384176964781543432
-    featured: false
+    country: Lebanon
+    actions_en: "Social media campaign"
+    actions_es: "Social media campaign"
+    actions_pt: "Social media campaign"
+    featured: true
     logo: /assets/uploads/smex.png
   - name: Association for Progressive Communications
     website: https://www.apc.org
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: Global
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/apc.png
   - name: Labor Council for Latin American Advancement
     website: https://lclaa.org/
-    country: Country
-    actions_en: .
-    actions_es: .
-    actions_pt: .
+    country: United States
+    actions_en: ""
+    actions_es: ""
+    actions_pt: ""
     featured: false
     logo: /assets/uploads/lclaa.png
   - name: Center for Digital Democracy
-    actions_en: " "
-    actions_es: " "
-    actions_pt: " "
+    actions_en: Urging authorities to act
+    actions_es: Urging authorities to act
+    actions_pt: Urging authorities to act
     website: https://www.democraticmedia.org
-    featured: false
+    featured: true
     logo: /assets/uploads/digital_democracy.png
-    country: Country
+    country: Global

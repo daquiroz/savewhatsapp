@@ -23,7 +23,9 @@ collections:
               - {label: Website, name: website, widget: string, required: false}
               - {label: Logo, name: logo, widget: image}
               - {label: Featured, name: featured, widget: boolean}
-              - {label: Actions, name: actions, widget: string, required: false}
+              - {label: Actions_EN, name: actions_en, widget: string, required: false}
+              - {label: Actions_ES, name: actions_es, widget: string, required: false}
+              - {label: Actions_PT, name: actions_pt, widget: string, required: false}
       - label: "Events"
         name: "events"
         file: "_data/events.yml"
@@ -49,16 +51,3 @@ collections:
               - {label: Position, name: position, widget: string}
               - {label: Country, name: country, widget: string}
               - {label: Party, name: party, widget: string}
-      - label: "Coalitions"
-        name: "coalitions"
-        file: "_data/coalitions.yml"
-        fields:
-          - label: "Coalition Items"
-            name: "items"
-            widget: "list"
-            fields:
-              - {label: Logo, name: logo, widget: image}
-              - {label: alt, name: alt, widget: string}
-              - {label: Description_EN, name: description_en, widget: string}
-              - {label: Description_ES, name: description_es, widget: string}
-              - {label: Active, name: active, widget: boolean}

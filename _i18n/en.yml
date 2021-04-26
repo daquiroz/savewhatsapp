@@ -1,7 +1,7 @@
 title: Save Whatsapp
-event_banner_text: Next event title lorem ipsum dolor sit amet
+event_banner_text: Webinar - How WhatsApp is moving into commerce
 header_home:
-  subtitle: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+  subtitle: Let's stop an abuse of corporate power. We are going to Save WhatsApp for those who cannot opt out.
 problems_section:
   title: What Facebook won't tell you
   competition_title: Why this is a problem for competition
@@ -10,21 +10,23 @@ problems_section:
 buttons:
   learn_more: Learn More
   more_to_share: More To Share
-  join_event: Join the event
+  join_event: Join event
   see_all: See all
   read_letter_web: Read their letter to Facebook and Whatsapp
   read_letter_mobile: Read the letter
 video_section:
-  title: Lorem ipsum dolor sit amet
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: Countdown for Mark
+  description: "WhatsApp is under attack. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data.
+  We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say:
+  Stop Facebook. Save WhatsApp."
 organizations_section:
   title: A GLOBAL MOVEMENT FOR ACTION
   subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook
   button_read: read theIR letter to facebook and whatsapp
   title_who: WHO IS DOING WHAT IN YOUR COUNTRY 
 take_action_section:
-  title: Lorem ipsum dolor sit amet
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: Spread the word
+  description: "Share the campaign #SaveWhastApp, support the coalition organizations and demand your authorities to defend the rights of WhatsApp users in your country."
 organizations:
   title: who is doing what in your country
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 

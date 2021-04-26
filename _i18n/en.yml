@@ -16,9 +16,12 @@ buttons:
   read_letter_mobile: Read the letter
 video_section:
   title: Countdown for Mark
-  description: "WhatsApp is under attack. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data.
-  We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say:
-  Stop Facebook. Save WhatsApp."
+  description: |
+    WhatsApp is under attack. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data. <br>
+
+    We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say: <br>
+    
+    <strong>Stop Facebook. Save WhatsApp.</strong>
 organizations_section:
   title: A GLOBAL MOVEMENT FOR ACTION
   subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook

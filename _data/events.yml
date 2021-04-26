@@ -1,8 +1,8 @@
 items:
-  - title_es: Join our bext event
+  - title_es: Join our next event
     title_en: Join our next event
-    description_es: Webinar - How WhatsApp is moving into commerce - April 30 - 9AM (EDT)
-    description_en: Webinar - How WhatsApp is moving into commerce - April 30 - 9AM (EDT)
+    description_es: April 30 webinar - How WhatsApp is moving into commerce
+    description_en: "April 30 webinar: How WhatsApp is moving into commerce "
     active: true
   - title_es: Evento 2
     title_en: Second event

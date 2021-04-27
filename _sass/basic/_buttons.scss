@@ -48,10 +48,8 @@
 
 .link-white{
   color: $white;
-  letter-spacing: 0.15rem;
-  font-size: 0.7rem;
   &:hover, &:focus {
-    text-decoration: underline;
+    text-decoration: none;
     color: $green-1;
   }
 }

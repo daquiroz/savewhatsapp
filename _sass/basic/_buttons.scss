@@ -38,6 +38,16 @@
   }
 }
 
+.btn-light-green-2 {
+  border: 3px solid $white !important;
+  color: $white !important;
+  &:hover, &:focus {
+    background: $white !important;
+    color: $green-2 !important;
+    border-color: $white !important;
+  }
+}
+
 .btn-blue {
   border: 3px solid $blue !important;
   background-color: $blue;

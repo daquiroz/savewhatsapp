@@ -25,6 +25,8 @@ h1, h2 {
   font-family: $title-font-family;
   text-transform: uppercase;
   color: $dark !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h2{
@@ -68,17 +70,30 @@ a.a-green:focus{
   padding: 0.4rem;
 }
 
+.uk-slider-container {
+    height: 25rem;
+}
+
 .uk-card-title{
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .uk-card{
-  border-radius: 0;
+  border-radius: 6px;
+}
+
+.uk-card-small .uk-card-body, .uk-card-small.uk-card-body {
+	min-height: 24rem;
 }
 
 .uk-label{
-  font-weight: 700;
-  letter-spacing: 0.1rem;
+  font-weight: 400;
+  letter-spacing: 0.06rem;
+  font-family: $title-font-family;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.8rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .table-header-row {
@@ -98,10 +113,21 @@ a.a-green:focus{
 
 .font-impact{
   font-family: $title-font-family;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .font-uppercase{
   text-transform: uppercase;
+}
+
+.font-medium{
+  font-size: 1.1rem !important;
+}
+
+.font-large{
+  font-size: 1.6rem !important;
 }
 
 footer{

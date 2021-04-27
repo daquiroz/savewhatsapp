@@ -31,10 +31,19 @@
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Mulish:wght@400;500;600;700;800&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Mulish:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  
+
+  <script>
+    UIkit.scrollspy(element, options);
+    UIkit.scroll(element, options).scrollTo(el);
+    UIkit.scroll(element).scrollTo(el);
+    UIkit.modal(element, options);
+    UIkit.slideshow(element, options);
+    UIkit.slider(element).startAutoplay();
+  </script>
+
 </head>

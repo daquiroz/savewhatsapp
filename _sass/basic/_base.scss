@@ -44,7 +44,7 @@ a,
 .uk-navbar-toggle,
 .uk-navbar-nav > li > a {
   font-family: $base-font-family;
-  text-transform: uppercase;
+  text-transform: none;
   color: $white;
   font-weight: bold;
 }
@@ -106,4 +106,119 @@ a.a-green:focus{
 
 footer{
   padding: 30px 0 30px;
+}
+
+/**
+ * Navbar
+ */
+.event-banner{
+  position: relative;
+  z-index: 400;
+}
+
+header.uk-sticky {
+    background: transparent;
+    margin-bottom: -120px;
+    position: relative;
+    z-index: 200;
+}
+
+.uk-navbar-dropdown-nav>li>a {
+ color: $black;
+ font-size: 0.7rem;
+ &:hover{
+   color: $green-1;
+ }
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle{
+  min-height: 50px;
+}
+
+.uk-navbar-container>.uk-container .uk-navbar-left {
+  margin-left: 0;
+}
+
+.uk-navbar-container>.uk-container .uk-navbar-right{
+  margin-top: 10px;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle, li.uk-active>a{
+  font-family: $base-font-family;
+  color: white;
+}
+
+.uk-navbar-nav > li:hover > a, .uk-navbar-nav > li > a.uk-open, .uk-navbar-nav > li > a:focus {
+    color: $green-1;
+}
+
+.logo-navbar-home{
+  position: relative;
+  top: 10px;
+  svg{
+    display: none;
+  }
+}
+
+.logo-navbar-page{
+  position: relative;
+  top: 10px;
+}
+
+.logo-navbar-page-white{
+  svg{
+    display: block;
+  }
+}
+.logo-navbar-page-color{
+  svg{
+    display: none;
+  }
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background: $black;
+  a{
+    color: $white;
+  }
+  .uk-navbar-nav>li>a{
+    color: $white;
+    text-transform: none;
+    &:hover, &:focus,{
+      color: $green-1;
+      text-decoration: none;
+    }
+  }
+  .uk-navbar-dropdown-nav > li > a {
+    color: $black !important;
+    &:hover, &:focus,{
+      color: $green-1 !important;
+      text-decoration: none;
+    }
+  }
+  svg{
+    display: block;
+  }
+  .logo-navbar-page-white{
+    svg{
+      display: none;
+    }
+  }
+  .logo-navbar-page-color{
+    svg{
+      display: block;
+    }
+  }
+}
+
+.uk-offcanvas-bar a:hover{
+  color: $green-1;
+  text-decoration: none;
+}
+
+#welcome-page {
+ padding: 60px 0 0;
+ .uk-height-viewport{
+   min-height: 55vh;
+ }
 }

@@ -7,7 +7,7 @@
 
   </div>
 </section>
-<section class="uk-section uk-width-3-4@m">
+<section class="uk-section">
   <h2 class="uk-text-center">{% t authorities.signatories %}</h2>
   <div class="uk-overflow-auto">
     <table class="uk-table uk-table-justify uk-table-divider">
@@ -22,10 +22,10 @@
       <tbody>
         {% for authority in site.data.authorities.items %}
           <tr>
-            <td>{{ authority.name }}</td>
-            <td>{{ authority.position }}</td>
-            <td>{{ authority.country }}</td>
-            <td>{{ authority.party }}</td>
+            <td class="font-medium">{{ authority.name }}</td>
+            <td class="font-medium">{{ authority.position }}</td>
+            <td class="font-medium">{{ authority.country }}</td>
+            <td class="font-medium">{{ authority.party }}</td>
           </tr>
         {% endfor %}
       </tbody>

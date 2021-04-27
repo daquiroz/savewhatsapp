@@ -1,14 +1,19 @@
 <section class="uk-section bg-gray-2">
-  <div class="uk-container uk-container-small">
-    <div class="uk-grid-medium uk-child-width-1-2@m" uk-grid>
-      <div>
+  <div class="uk-container">
+    <div class="uk-grid-medium uk-child-width-1-2@m uk-flex uk-flex-middle" uk-grid>
+      <div class="uk-visible@m">
         <h2>{%t video_section.title%}</h2>
-        <p>{% t video_section.description %}</p>
+        <p class="font-large">{% t video_section.description %}</p>
+        <a href="#" target="_blank" class="uk-button uk-button-default btn-dark">{% t buttons.learn_more %}</a>
+      </div>
+      <div class="uk-hidden@m uk-text-center">
+        <h2>{%t video_section.title%}</h2>
+        <p class="font-large">{% t video_section.description %}</p>
         <a href="#" target="_blank" class="uk-button uk-button-default btn-dark">{% t buttons.learn_more %}</a>
       </div>
       <div>
         <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" controls
-          preload="auto" poster="{{site.baseurl_root}}/assets/images/video_poster.png"></video>
+          preload="auto" poster="{{site.baseurl_root}}/assets/images/video_poster.png" style="margin-top: 2rem;"></video>
       </div>
     </div>
   </div>

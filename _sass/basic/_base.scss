@@ -124,10 +124,12 @@ a.a-green:focus{
 
 .font-medium{
   font-size: 1.1rem !important;
+  line-height: 1.2rem !important;
 }
 
 .font-large{
-  font-size: 1.6rem !important;
+  font-size: 1.4rem !important;
+  line-height: 2rem !important;
 }
 
 footer{
@@ -147,6 +149,11 @@ header.uk-sticky {
     margin-bottom: -120px;
     position: relative;
     z-index: 200;
+}
+
+.uk-navbar-nav {
+	position: relative;
+	top: -4px;
 }
 
 .uk-navbar-dropdown-nav>li>a {

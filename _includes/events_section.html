@@ -1,4 +1,4 @@
-{% assign active_events = site.events.items | where: "active", "true" %}
+{% assign active_events = site.events | where: "active", "true" %}
 {% if active_events.size > 0 %}
 
 <div class="animated fadeIn uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
@@ -8,7 +8,7 @@
         {% assign desc_content = "description_" | append: site.lang %}
         <h2>{{ active_events.first[title_content] }}</h2>
         <p class="font-large">{{ active_events.first[desc_content] }}</p>
-        <a href="#" class="uk-button uk-button-default btn-light">{% t buttons.join_event %}</a>
+        <a href="{{active_events.first.url}}" class="uk-button uk-button-default btn-light">{% t buttons.join_event %}</a>
         </div>
     </div>
 </div>

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="page">
+
+    {% assign title_lang = "title_" | append: site.lang %}
+    {% assign title = page[title_lang] %}
+    {% assign subtitle_lang = "subtitle_" | append: site.lang %}
+    {% assign subtitle = page[subtitle_lang] %}
+  
+    {%- include header.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
+  
+    {%- include welcome_page.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
+  
+    <div class="uk-container uk-container-small uk-padding animated fadeIn delay-1s fast">
+      {{ content }}
+
+      <a target="_blank" href="https://twitter.com/intent/tweet?text=Mark%20Zuckerberg%20is%20lying%20to%20you.%20It’s%20time%20to%20stop%20his%20corporate%20abuse%20and%20save%20WhatsApp%20for%20all%20pic.twitter.com/lgAYnkNLuo" data-size="large"><img src="{{site.baseurl_root}}/assets/images/share/share_twitter.png" width="50px" alt="Share Twitter"></a>
+
+    </div>
+
+    
+
+
+</div>
+  

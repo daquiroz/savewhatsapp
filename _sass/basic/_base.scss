@@ -13,6 +13,8 @@
    display: flex;
    min-height: 100vh;
    flex-direction: column;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
  }
 
 
@@ -25,6 +27,8 @@ h1, h2 {
   font-family: $title-font-family;
   text-transform: uppercase;
   color: $dark !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h2{
@@ -44,7 +48,7 @@ a,
 .uk-navbar-toggle,
 .uk-navbar-nav > li > a {
   font-family: $base-font-family;
-  text-transform: uppercase;
+  text-transform: none;
   color: $white;
   font-weight: bold;
 }
@@ -62,23 +66,48 @@ a.a-green:focus{
   color: $blue;
 }
 
+
+.title-image-card{
+  margin-bottom: -160px;
+  position: relative;
+  z-index: 10;
+  padding: 20px 20px 0 20px;
+}
+
+.image-card{
+  border-radius: 6px;
+}
+
 .uk-label{
   border-radius: 0;
   font-size: 0.5rem;
   padding: 0.4rem;
 }
 
+.uk-slider-container {
+    height: 25rem;
+}
+
 .uk-card-title{
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .uk-card{
-  border-radius: 0;
+  border-radius: 6px;
+}
+
+.uk-card-small .uk-card-body, .uk-card-small.uk-card-body {
+	min-height: 24rem;
 }
 
 .uk-label{
-  font-weight: 700;
-  letter-spacing: 0.1rem;
+  font-weight: 400;
+  letter-spacing: 0.06rem;
+  font-family: $title-font-family;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.8rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .table-header-row {
@@ -91,6 +120,10 @@ a.a-green:focus{
   }
 }
 
+.uk-table td {
+    padding: 30px 12px;
+}
+
 .uk-section{
   padding-top: 110px;
   padding-bottom: 110px;
@@ -98,12 +131,149 @@ a.a-green:focus{
 
 .font-impact{
   font-family: $title-font-family;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .font-uppercase{
   text-transform: uppercase;
 }
 
+.font-medium{
+  font-size: 1.1rem !important;
+  line-height: 1.6rem !important;
+}
+
+.font-large{
+  font-size: 1.4rem !important;
+  line-height: 2rem !important;
+}
+
 footer{
   padding: 30px 0 30px;
+}
+
+/**
+ * Navbar
+ */
+.event-banner{
+  position: relative;
+  z-index: 400;
+}
+
+header.uk-sticky {
+    background: transparent;
+    margin-bottom: -120px;
+    position: relative;
+    z-index: 200;
+}
+
+.uk-navbar-nav {
+	position: relative;
+	top: -4px;
+}
+
+.uk-navbar-dropdown-nav>li>a {
+ color: $black;
+ font-size: 0.7rem;
+ &:hover{
+   color: $green-1;
+ }
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle{
+  min-height: 50px;
+}
+
+.uk-navbar-container>.uk-container .uk-navbar-left {
+  margin-left: 0;
+}
+
+.uk-navbar-container>.uk-container .uk-navbar-right{
+  margin-top: 10px;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle, li.uk-active>a{
+  font-family: $base-font-family;
+  color: white;
+}
+
+.uk-navbar-nav > li:hover > a, .uk-navbar-nav > li > a.uk-open, .uk-navbar-nav > li > a:focus {
+    color: $green-1;
+}
+
+.logo-navbar-home{
+  position: relative;
+  top: 10px;
+  svg{
+    display: none;
+  }
+}
+
+.logo-navbar-page{
+  position: relative;
+  top: 10px;
+}
+
+.logo-navbar-page-white{
+  svg{
+    display: block;
+  }
+}
+.logo-navbar-page-color{
+  svg{
+    display: none;
+  }
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background: $black;
+  a{
+    color: $white;
+  }
+  .uk-navbar-nav>li>a{
+    color: $white;
+    text-transform: none;
+    &:hover, &:focus,{
+      color: $green-1;
+      text-decoration: none;
+    }
+  }
+  .uk-navbar-dropdown-nav > li > a {
+    color: $black !important;
+    &:hover, &:focus,{
+      color: $green-1 !important;
+      text-decoration: none;
+    }
+  }
+  svg{
+    display: block;
+  }
+  .logo-navbar-page-white{
+    svg{
+      display: none;
+    }
+  }
+  .logo-navbar-page-color{
+    svg{
+      display: block;
+    }
+  }
+}
+
+.uk-offcanvas-bar{
+  background: $dark;
+}
+
+.uk-offcanvas-bar a:hover{
+  color: $green-1;
+  text-decoration: none;
+}
+
+#welcome-page {
+ padding: 60px 0 0;
+ .uk-height-viewport{
+   min-height: 55vh;
+ }
 }

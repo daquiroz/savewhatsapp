@@ -11,9 +11,9 @@ $spacing-unit:     30px !default;
 
 // Project colors
 
-$text-color:           #232323 !default;
+$text-color:           #101E22 !default;
 $background-color:     white !default;
-$black:                #232323 !default;
+$black:                #101E22 !default;
 
 
 $green-1: #25D366;
@@ -47,7 +47,7 @@ $white: #FFF;
   color: $gray-2;
 }
 .white{
-  color: $white;
+  color: $white !important;
 }
 
 .bg-green-1 {
@@ -70,6 +70,9 @@ $white: #FFF;
 }
 .bg-dark {
   background-color: $dark;
+  p, h2, h3, h4, h5{
+    color: $white !important;
+  }
 }
 .bg-gray-1 {
   background-color: $gray-1;

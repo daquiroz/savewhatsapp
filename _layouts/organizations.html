@@ -12,17 +12,17 @@ layout: default
 
     <div class="uk-padding">
       <h2 class="uk-text-center">{% t organizations.title %}</h2>
-      <p class="uk-text-center">{% t organizations.description %}</h2>
+      <p class="font-medium uk-text-center">{% t organizations.description %}</h2>
     </div>
 
-    <div uk-grid>
+    <div class="uk-flex uk-flex-center" uk-grid>
       {% for org in site.data.organizations.items %}
-        <div class="uk-width-1-3@m ">
-          <div class="uk-card uk-card-default uk-card-small uk-card-body">
+        <div class="uk-width-1-3@m">
+          <div class="uk-card uk-card-default uk-card-small uk-card-body uk-text-center">
               <img src="{{site.baseurl_root}}{{org.logo}}" alt="" width="100%">
               <span class="uk-label bg-green-2 uk-margin-small uk-margin-medium-top">{{ org.country }}</span>
-              <h4 class="uk-card-title uk-margin-remove">{{ org.name }}</h4>
-              <p class="uk-margin-small-top"><span class="uk-text-bold">Actions:</span> {{org.actions_en}}</p>
+              <h4 class="font-impact font-large uk-card-title uk-margin-remove">{{ org.name }}</h4>
+              <p class="uk-margin-small-top font-medium"><span class="uk-text-bold">Actions:</span> {{org.actions_en}}</p>
           </div>
         </div>
       {% endfor %}

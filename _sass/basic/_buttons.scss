@@ -1,14 +1,25 @@
 .uk-button-default {
-    font-size: 0.7rem;
+    font-size: 1.4rem;
+    font-family: 'anton',inherit sans-serif;
+    letter-spacing: 0.06rem;
+    border-radius: 6px;
+    padding: 0.8rem 1.6rem;
+    font-weight: 400;
+    background: transparent;
+}
+
+.uk-button-primary {
+    font-size: 0.8rem;
+    font-family: 'anton',inherit sans-serif;
+    letter-spacing: 0.06rem;
+    border-radius: 6px;
+    padding: 0.01rem 0.6rem;
+    font-weight: 400;
+    background: transparent;
 }
 
 .btn-dark {
-  font-family: Mulish;
-  font-style: normal;
-  font-weight: 800;
-  letter-spacing: 0.2em;
   border: 3px solid $dark !important;
-  border-radius: 0;
   color: $dark !important;
   &:hover, &:focus {
     background: $dark !important;
@@ -18,12 +29,7 @@
 }
 
 .btn-light {
-  font-family: Mulish;
-  font-style: normal;
-  font-weight: 800;
-  letter-spacing: 0.2em;
   border: 3px solid $white !important;
-  border-radius: 0;
   color: $white !important;
   &:hover, &:focus {
     background: $white !important;
@@ -31,6 +37,37 @@
     border-color: $white !important;
   }
 }
+
+.btn-light-green-2 {
+  border: 3px solid $white !important;
+  color: $white !important;
+  &:hover, &:focus {
+    background: $white !important;
+    color: $green-2 !important;
+    border-color: $white !important;
+  }
+}
+
+.btn-light-blue {
+  border: 3px solid $white !important;
+  color: $white !important;
+  &:hover, &:focus {
+    background: $white !important;
+    color: $blue !important;
+    border-color: $white !important;
+  }
+}
+
+.btn-blue {
+  border: 3px solid $blue !important;
+  background-color: $blue;
+  color: $white;
+  &:hover, &:focus {
+    background-color: transparent;
+    color: $blue;
+  }
+}
+
 .link-light {
   text-decoration: underline;
   &:hover, &:focus {
@@ -38,28 +75,11 @@
   }
 }
 
-.btn-blue {
-  font-family: Mulish;
-  font-style: normal;
-  font-weight: 800;
-  letter-spacing: 0.2em;
-  border: 3px solid;
-  border-color: $blue;
-  border-radius: 0;
-  background-color: $blue;
-  &:hover, &:focus {
-    background-color: $white;
-    color: $blue;
-    border-color: $blue;
-  }
-}
 
 .link-white{
   color: $white;
-  letter-spacing: 0.15rem;
-  font-size: 0.7rem;
   &:hover, &:focus {
-    text-decoration: underline;
+    text-decoration: none;
     color: $green-1;
   }
 }

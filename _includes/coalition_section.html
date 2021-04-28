@@ -1,7 +1,7 @@
-<section class="uk-section">
-  <div class="uk-container uk-container-small">
+<section class="uk-section animated fadeIn" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
+  <div class="uk-container">
     <h2 class="uk-text-center uk-margin-large-bottom">{% t coalition_section.title %}</h2>
-    <div class="uk-grid-large uk-child-width-1-4@s uk-text-center" uk-grid>
+    <div class="uk-grid-large uk-flex uk-flex-center uk-child-width-1-4@s uk-text-center" uk-grid>
       {% for coalition in site.data.organizations.items %}
         <a href="{{coalition.website}}" target="_blank">
           <img data-src="{{site.baseurl_root}}{{coalition.logo}}"

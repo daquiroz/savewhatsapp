@@ -73,19 +73,33 @@
               <li><a href="#">About us</a></li>
               <li>
                 {% if site.lang == "en" %}
-                {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                  {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                  {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
                   <a href="#">EN</a>
                   <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li><a href="{{ link_es }}">ES</a></li>
+                        <li><a href="{{ link_pt }}">PT</a></li>
+                    </ul>
+                  </div>
+                {% elsif site.lang == "pt" %}
+                  {% capture link_en %}{{ site.baseurl_root }}/{{ page.url}}{% endcapture %}
+                  {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                  <a href="#">PT</a>
+                  <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li><a href="{{ link_en }}">EN</a></li>
                         <li><a href="{{ link_es }}">ES</a></li>
                     </ul>
                   </div>
                 {% elsif site.lang == "es" %}
                   {% capture link_en %}{{ site.baseurl_root }}/{{ page.url}}{% endcapture %}
+                  {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
                   <a href="#">ES</a>
                   <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav">
                         <li><a href="{{ link_en }}">EN</a></li>
+                        <li><a href="{{ link_pt }}">PT</a></li>
                     </ul>
                   </div>
                 {% endif %}
@@ -101,19 +115,33 @@
                     <li><a href="#">About us</a></li>
                     <li>
                       {% if site.lang == "en" %}
-                      {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                        {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                        {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
                         <a href="#">EN</a>
                         <div class="uk-navbar-dropdown">
                           <ul class="uk-nav uk-navbar-dropdown-nav">
+                              <li><a href="{{ link_es }}">ES</a></li>
+                              <li><a href="{{ link_pt }}">PT</a></li>
+                          </ul>
+                        </div>
+                      {% elsif site.lang == "pt" %}
+                        {% capture link_en %}{{ site.baseurl_root }}/{{ page.url}}{% endcapture %}
+                        {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
+                        <a href="#">PT</a>
+                        <div class="uk-navbar-dropdown">
+                          <ul class="uk-nav uk-navbar-dropdown-nav">
+                              <li><a href="{{ link_en }}">EN</a></li>
                               <li><a href="{{ link_es }}">ES</a></li>
                           </ul>
                         </div>
                       {% elsif site.lang == "es" %}
                         {% capture link_en %}{{ site.baseurl_root }}/{{ page.url}}{% endcapture %}
+                        {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
                         <a href="#">ES</a>
                         <div class="uk-navbar-dropdown">
                           <ul class="uk-nav uk-navbar-dropdown-nav">
                               <li><a href="{{ link_en }}">EN</a></li>
+                              <li><a href="{{ link_pt }}">PT</a></li>
                           </ul>
                         </div>
                       {% endif %}

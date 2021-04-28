@@ -1,0 +1,1 @@
+PT privacy Lorem ipsum

@@ -24,7 +24,7 @@ description: "A global movement for action"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-languages: ["en", "es"]
+languages: ["en", "es", "pt"]
 # To avoid redundancy, it is possible to exclude files and folders from being copied to the localization folders.
 # exclude_from_localizations: ["javascript", "images", "css"]
 # In code, these specific files should be referenced via baseurl_root. E.g.

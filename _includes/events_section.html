@@ -1,4 +1,4 @@
-{% assign active_events = site.data.events.items | where: "active", "true" %}
+{% assign active_events = site.events.items | where: "active", "true" %}
 {% if active_events.size > 0 %}
 
 <div class="animated fadeIn uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">

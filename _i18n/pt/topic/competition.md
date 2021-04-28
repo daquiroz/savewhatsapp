@@ -1,0 +1,1 @@
+PT COmpetition Lorem ipsum

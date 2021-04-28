@@ -51,3 +51,7 @@ exclude_from_localizations: ["javascript", "images", "css", "assets"]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  events:
+    output: true

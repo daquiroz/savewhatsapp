@@ -23,9 +23,9 @@ collections:
               - {label: Website, name: website, widget: string, required: false}
               - {label: Logo, name: logo, widget: image}
               - {label: Featured, name: featured, widget: boolean}
-              - {label: Actions_EN, name: actions_en, widget: string, required: false}
-              - {label: Actions_ES, name: actions_es, widget: string, required: false}
-              - {label: Actions_PT, name: actions_pt, widget: string, required: false}
+              - {label: Actions EN, name: actions_en, widget: string, required: false}
+              - {label: Actions ES, name: actions_es, widget: string, required: false}
+              - {label: Actions PT, name: actions_pt, widget: string, required: false}
       - label: "Events"
         name: "events"
         file: "_data/events.yml"
@@ -34,11 +34,16 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: Title_EN, name: title_en, widget: string}
-              - {label: Title_ES, name: title_es, widget: string}
-              - {label: Description_EN, name: description_en, widget: string}
-              - {label: Description_ES, name: description_es, widget: string}
-              - {label: Active, name: active, widget: boolean}
+              - {label: "Title EN", name: title_en, widget: string}
+              - {label: "Title PT", name: title_pt, widget: string}
+              - {label: "Title ES", name: title_es, widget: string}
+              - {label: "Content EN", name: content_en, widget: string}
+              - {label: "Content ES", name: content_es, widget: string}
+              - {label: "Content PT", name: content_pt, widget: string}
+              - {label: "Image", name: image, widget: image}
+              - {label: "Datetime (UTC)", name: datetime, widget: datetime, picker_utc: true}
+              - {label: "Active", name: active, widget: boolean}
+              - {label: "Registration link", name: registration_link, widget: string}
       - label: "Authorities"
         name: "authorities"
         file: "_data/authorities.yml"

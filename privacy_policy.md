@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /privacy_policy/
-image_name: privacy_web.png
-image_name_mobile: privacy_mobile.png
+image_name: privacypolicy_web.png
+image_name_mobile: privacypolicy_mobile.png
 title_en: Privacy Policy
 title_es: Política de privacidad
 ---

@@ -1,15 +1,15 @@
-### **WhatsApp está bajo ataque.**
-El tiempo se le acaba a Mark Zuckerberg para cambiar su decisión de cambiar la política de privacidad de WhastApp y empoderar a los usuarios para que protejan sus datos personales.
+### **WhatsApp is under attack.**
+Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data.
 
-### **Mark Zuckerberg hizo una promesa.**
-Cuando Facebook compró WhatsApp en 2014 Zuckerberg dijo “No vamos a cambiar en absoluto los planes en torno a WhatsApp y la forma en que utiliza los datos de los usuarios. WhatsApp funcionará de forma completamente autónoma." 
+### **Mark Zuckerberg made a promise.**
+When Facebook acquired WhatsApp in 2014, Zuckerberg said: “We are absolutely not going to change plans around WhatsApp and the way it uses user data. WhatsApp is going to operate completely autonomously.”
 
-### **Mark Zuckerberg rompió su promesa.**
-Con la actualización de los términos y condiciones de WhatsApp en 2016, Facebook se dio a sí mismo acceso a buena parte de tus datos personales.
+### **Mark Zuckerberg broke that promise.**
+With an update to WhatsApp’s terms and conditions in 2016, Facebook gave itself access to a wide range of your personal data.
 
-### **Ahora Facebook quiere tomar aún más.**
-La nueva política de privacidad, que entra en vigor este 15 de mayo, le dará a Facebook aún más poder para sacar dinero de las comunicaciones hechas en WhatsApp.
+### **Now, Facebook wants to take even more.**
+The new privacy policy, coming into effect on 15 May, will give Facebook even more power to extract money from WhatsApp communications.
 
-Somos ciudadanos, activistas, legisladores y usuarios de WhatsApp en todas partes del mundo y estamos organizándonos para retomar el control de nuestra privacidad, rechazar esta política y hacer oír nuestro mensaje:
+We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say:
+### **Stop Facebook. Save WhatsApp.**
 
-### **Paremos a Facebook, salvemos WhatsApp.**

@@ -1,6 +1,6 @@
 ---
 layout: event
-title: How WhatsApp is moving into commerce
+title_en: How WhatsApp is moving into commerce
 title_pt: How WhatsApp is moving into commerce
 title_es: How WhatsApp is moving into commerce
 desc_en: >-

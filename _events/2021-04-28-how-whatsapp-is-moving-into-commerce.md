@@ -106,7 +106,7 @@ desc_pt: >-
 
   Join us for this thought-provoking webinar to learn all about WhatsApp Business and what the implications of this enterprise will be in the future for both business and WhatsApp user’s privacy.
 image: /assets/uploads/event_how_wsp_is_moving_into_commerce.jpg
-date: 2021-04-30T13:00:07.967Z
+date: 2021-04-30T13:00:00.967Z
 active: true
 registration_link: https://us02web.zoom.us/webinar/register/WN_kL8JQwDsRDKIjvSE7JY39g
 ---

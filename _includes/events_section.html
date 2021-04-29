@@ -5,8 +5,8 @@
         <div class="bg-dark uk-section uk-light">
             <div class="uk-container uk-width-3-4">
             {% assign title_content = "title_" | append: site.lang %}
-            <h2>{{ active_events.first[title_content] }}</h2>
-            <p>{{ active_events.first["date"] }}</p>
+            <h2>{%t events.title%}</h2>
+            <p class="font-large">{{ active_events.first[title_content] }}</p>
             <a href="{{active_events.first.url}}" class="uk-button uk-button-default btn-light">{% t buttons.join_event %}</a>
             </div>
         </div>

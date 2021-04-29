@@ -7,7 +7,7 @@
             {% assign title_content = "title_" | append: site.lang %}
             <h2>{%t events.title%}</h2>
             <p class="font-large">{{ active_events.first[title_content] }}</p>
-            <a href="{{active_events.first.url}}" class="uk-button uk-button-default btn-light">{% t buttons.join_event %}</a>
+            <a href="{{active_events.first.url}}" class="uk-button uk-button-default btn-light-green-2">{% t buttons.join_event %}</a>
             </div>
         </div>
     </div>

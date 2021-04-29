@@ -73,6 +73,9 @@ a.a-green:focus{
   br{
     margin-bottom: 15px;
   }
+  blockquote{
+    margin-bottom: 15px;
+  }
 }
 
 strong {
@@ -80,6 +83,10 @@ strong {
 	font-family: 'anton',inherit sans-serif;
 	text-transform: uppercase;
   font-size: 1.6rem;
+}
+
+em{
+  color: $dark;
 }
 
 .title-image-card{

@@ -6,7 +6,7 @@ layout: default
 
   <div class="home">
 
-    {% assign active_events = site.events.items | where: "active", "true" %}
+    {% assign active_events = site.events | where: "active", "true" %}
     {% if active_events.size > 0 %}
       {%- include event_banner.html -%}
     {% endif %}
@@ -19,9 +19,9 @@ layout: default
 
     <!-- {%- include problems_section.html -%} -->
 
-    {%- include events_section.html -%}
-    
     {%- include take_action.html -%}
+
+    {%- include events_section.html -%}
 
     {%- include organizations_section.html -%}
 

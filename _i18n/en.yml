@@ -20,19 +20,19 @@ video_section:
     WhatsApp is under attack. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data. <br>
 
     We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say: <br>
-    
+
     <strong>Stop Facebook. Save WhatsApp.</strong>
 organizations_section:
   title: A GLOBAL MOVEMENT FOR ACTION
   subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook
   button_read: read theIR letter to facebook and whatsapp
-  title_who: WHO IS DOING WHAT IN YOUR COUNTRY 
+  title_who: WHO IS DOING WHAT IN YOUR COUNTRY
 take_action_section:
   title: Spread the word
   description: "Share the campaign #SaveWhatsApp, support the coalition organizations and demand your authorities to defend the rights of WhatsApp users in your country."
 organizations:
   title: who is doing what in your country
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
   title: The Coalition
@@ -53,4 +53,5 @@ authorities:
 spread_the_word:
   title: "MORE TO SHARE"
   subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
-
+events:
+  title: Next events

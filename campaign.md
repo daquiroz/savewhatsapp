@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /learn_more/
-image_name: events_web.png
-image_name_mobile: events_mobile.png
+permalink: /campaign/
+image_name: campaign_web.png
+image_name_mobile: campaign_mobile.png
 title_en: Countdown for Mark
 title_es: La cuenta regresiva para Mark
 title_pt: Contagem regressiva para Mark Zuckerberg

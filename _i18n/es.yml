@@ -21,7 +21,7 @@ organizations_section:
   title: ES A GLOBAL MOVEMENT FOR ACTION
   subtitle: ES Authorities across the planet unite to Save WhatsApp, Stop Facebook
   button_read: ES read theIR letter to facebook and whatsapp
-  title_who: ES WHO IS DOING WHAT IN YOUR COUNTRY 
+  title_who: ES WHO IS DOING WHAT IN YOUR COUNTRY
   title: ES Lorem ipsum dolor sit amet
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 take_action_section:
@@ -29,7 +29,7 @@ take_action_section:
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 organizations:
   title: who is doing what in your country
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
   title: La Coalición
@@ -50,4 +50,5 @@ authorities:
 spread_the_word:
   title: "MORE TO SHARE"
   subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
-
+events:
+  title: Próximos eventos

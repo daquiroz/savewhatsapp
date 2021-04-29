@@ -1,0 +1,6 @@
+<div>
+    {% for event in site.events %}
+        <h3>{{event.title_en}}</h3>
+        <a href="{{event.url}}">Link to event</a>
+    {% endfor %}
+</div>

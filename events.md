@@ -1,9 +1,17 @@
 ---
-layout: default
+layout: page
+permalink: /events/
 ref: events
-permalink: /events
+image_name: about_web.png
+image_name_mobile: about_mobile.png
+title_en: Events
+title_es: Eventos
+title_pt: Events
+
 ---
 
-Lorem ipsum
+
+{% include events.html %}
+
 
 

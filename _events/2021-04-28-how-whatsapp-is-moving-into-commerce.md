@@ -3,7 +3,7 @@ layout: event
 title: How WhatsApp is moving into commerce
 title_pt: How WhatsApp is moving into commerce
 title_es: How WhatsApp is moving into commerce
-content_en: >-
+desc_en: >-
   After being sold to Facebook with a $19 billion price tag in 2014, it’s
   finally time for WhatsApp’s 2 billion users to “pull their weight” when it
   comes to contributing to Facebook’s ever-growing revenues.\
@@ -37,7 +37,7 @@ content_en: >-
 
 
   Join us for this thought-provoking webinar to learn all about WhatsApp Business and what the implications of this enterprise will be in the future for both business and WhatsApp user’s privacy.
-content_es: >-
+desc_es: >-
   After being sold to Facebook with a $19 billion price tag in 2014, it’s
   finally time for WhatsApp’s 2 billion users to “pull their weight” when it
   comes to contributing to Facebook’s ever-growing revenues.\
@@ -71,7 +71,7 @@ content_es: >-
 
 
   Join us for this thought-provoking webinar to learn all about WhatsApp Business and what the implications of this enterprise will be in the future for both business and WhatsApp user’s privacy.
-content_pt: >-
+desc_pt: >-
   After being sold to Facebook with a $19 billion price tag in 2014, it’s
   finally time for WhatsApp’s 2 billion users to “pull their weight” when it
   comes to contributing to Facebook’s ever-growing revenues.\

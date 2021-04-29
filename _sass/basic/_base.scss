@@ -42,8 +42,8 @@ h3, h4 {
 a{
   color: $blue;
   &:hover, &:focus {
-    color: $green-1 !important;
-    text-decoration: none;
+    color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -67,6 +67,12 @@ a.a-green{
 a.a-green:hover,
 a.a-green:focus{
   color: $blue;
+}
+
+.space-after{
+  br{
+    margin-bottom: 15px;
+  }
 }
 
 strong {

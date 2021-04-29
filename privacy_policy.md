@@ -7,4 +7,6 @@ title_en: Privacy Policy
 title_es: Política de privacidad
 ---
 
-{% translate_file privacy_policy.md %}
+<div class="uk-width-2xlarge uk-text-justify uk-align-center">
+  {% translate_file privacy_policy.md %}
+</div>

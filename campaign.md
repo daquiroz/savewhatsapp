@@ -8,4 +8,6 @@ title_es: La cuenta regresiva para Mark
 title_pt: Contagem regressiva para Mark Zuckerberg
 ---
 
-{% translate_file learn_more.md %}
+<div class="uk-width-2xlarge uk-text-justify uk-align-center">
+  {% translate_file learn_more.md %}
+</div>

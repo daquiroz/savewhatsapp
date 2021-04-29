@@ -1,0 +1,73 @@
+items:
+  - title: "tw-01"
+    lang: en
+    url_twitter: "pic.twitter.com/epObcit1io"
+    img: /assets/images/share/instagram/en-ig-01.png
+  - title: "tw-01"
+    lang: es
+    url_twitter: "pic.twitter.com/8GraV7TlJH"
+    img: /assets/images/share/instagram/es-ig-01.png
+  - title: tw-01
+    lang: pt
+    url_twitter: pic.twitter.com/mTVb38jyLE
+    img: /assets/images/share/instagram/pt-ig-01.png
+  - title: tw-02
+    lang: en
+    url_twitter: pic.twitter.com/u0XaQCk9jb
+    img: /assets/images/share/instagram/en-ig-02.png
+  - title: tw-02
+    lang: es
+    img: /assets/images/share/instagram/es-ig-02.png
+    url_twitter: pic.twitter.com/pcVF3skXV9
+  - title: tw-02
+    lang: pt
+    img: /assets/images/share/instagram/pt-ig-02.png
+    url_twitter: pic.twitter.com/zXmPvNH7Eb
+  - title: tw-03
+    lang: en
+    img: /assets/images/share/instagram/en-ig-03.png
+    url_twitter: pic.twitter.com/zXmPvNH7Eb
+  - title: tw-03
+    lang: es
+    img: /assets/images/share/instagram/es-ig-03.png
+    url_twitter: pic.twitter.com/ef9fUNOygm
+  - title: tw-03
+    lang: pt
+    img: /assets/images/share/instagram/pt-ig-03.png
+    url_twitter: pic.twitter.com/8vkV1DgCbd
+  - title: tw-04
+    lang: en
+    img: /assets/images/share/instagram/en-ig-04.png
+    url_twitter: pic.twitter.com/a8hEMVgyXj
+  - title: tw-04
+    lang: es
+    img: /assets/images/share/instagram/es-ig-04.png
+    url_twitter: pic.twitter.com/XqV5Qtjo7Z
+  - title: tw-04
+    lang: pt
+    img: /assets/images/share/instagram/pt-ig-04.png
+    url_twitter: pic.twitter.com/oJkx7RmIVf
+  - title: tw-05
+    lang: en
+    img: /assets/images/share/instagram/en-ig-05.png
+    url_twitter: pic.twitter.com/D1Puw6Pjiu
+  - title: tw-05
+    lang: es
+    img: /assets/images/share/instagram/es-ig-05.png
+    url_twitter: pic.twitter.com/n29rJN3TPs
+  - title: tw-05
+    lang: pt
+    img: /assets/images/share/instagram/pt-ig-05.png
+    url_twitter: pic.twitter.com/7ljWYZvsOt
+  - title: tw-06
+    lang: en
+    img: /assets/images/share/instagram/en-ig-06.png
+    url_twitter: pic.twitter.com/dOiYhnLVF5
+  - title: tw-06
+    lang: es
+    img: /assets/images/share/instagram/es-ig-06.png
+    url_twitter: pic.twitter.com/PqLYXsxEbM
+  - title: tw-06
+    lang: pt
+    img: /assets/images/share/instagram/pt-ig-06.png
+    url_twitter: pic.twitter.com/C8UHiDhRec

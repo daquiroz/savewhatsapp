@@ -47,3 +47,7 @@ authorities:
     position: Posición
     country: País
     party: Partido
+spread_the_word:
+  title: "MORE TO SHARE"
+  subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
+

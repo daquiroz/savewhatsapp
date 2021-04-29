@@ -8,10 +8,10 @@ layout: default
     {% assign title = page[title_lang] %}
 
     {%- include header.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
-  
+
     {%- include welcome_page.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
 
-    <div class="uk-container uk-width-3-4@m uk-padding">
+    <div class="uk-container uk-width-3-4@m uk-padding animated fadeIn delay-1s">
 
       <div class="uk-padding">
         <h2 class="uk-text-center">{% t spread_the_word.title %}</h2>
@@ -23,20 +23,15 @@ layout: default
         {% for resource in lang_resources %}
           <div class="uk-width-1-3@m">
             <div class="uk-text-center">
-              <img src="{{site.baseurl_root}}{{resource.img}}" alt="" width="100%">
+              <img src="{{site.baseurl_root}}{{resource.img}}" alt="" width="100%" style="border-radius: 6px">
               <a class="uk-icon-link" uk-icon="download" target="_blank" href="{{site.baseurl_root}}{{resource.img}}"></a>
               <a class="uk-icon-link" uk-icon="twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Mark%20Zuckerberg%20is%20lying%20to%20you.%20It’s%20time%20to%20stop%20his%20corporate%20abuse%20and%20save%20WhatsApp%20for%20all%20{{resource.url_twitter}}&hashtags=savewhatsapp"></a>
             </div>
           </div>
         {% endfor %}
       </div>
-      
-      <a class="btn-to-top uk-align-right uk-margin-medium-top" href="" uk-totop uk-scroll></a>
-    </div>    
+
+    </div>
 
 
 </div>
-  
-
-
-

@@ -11,22 +11,22 @@ layout: default
     {%- include header.html title=title image_name_mobile="events_mobile.png" image_name="events_web.png" -%}
 
     {%- include welcome_page.html title=title image_name_mobile="events_mobile.png" image_name="events_web.png" -%}
-  
+
     <div class="uk-container uk-width-3-4@m uk-padding">
 
         <div class="uk-padding">
             <p class="uk-padding-remove uk-margin-remove">WEBINAR</p>
             <h2 class="uk-padding-remove uk-margin-remove">{{page.title}}</h2>
             <img style="margin-bottom: 30px; margin-top: 30px;" src="{{site.baseurl_root}}{{page.image}}" alt="{{page.title}}" width="100%">
-            
+
             <div uk-grid>
                 <div class="uk-width-1-4@m">
-                    <p class="">WHEN</p>
-                    <p class="font-medium">{{ page.date | date_to_string }}</h2>
-                    <a class="uk-button uk-button-small uk-button-default btn-blue" href="{{page.registration_link}}" target="_blank"> {% t buttons.register_here %} </a>
+                    <p style="margin-bottom: -20px;">WHEN</p>
+                    <p class="font-impact font-large">{{ page.date | date_to_string }}</p>
+                    <a style="margin-top: 20px" class="uk-button uk-button-small uk-button-default btn-blue" href="{{page.registration_link}}" target="_blank"> {% t buttons.register_here %} </a>
                 </div>
-                <div class="uk-width-3-4@m">
-                    <p>{{ page.desc_en | markdownify }}</p>
+                <div class="uk-width-3-4@m uk-text-justify">
+                    <p class="font-medium">{{ page.desc_en | markdownify }}</p>
                 </div>
             </div>
 

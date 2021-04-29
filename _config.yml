@@ -54,3 +54,5 @@ exclude_from_localizations: ["javascript", "images", "css", "assets", "_events",
 collections:
   events:
     output: true
+  posts:
+    output: true

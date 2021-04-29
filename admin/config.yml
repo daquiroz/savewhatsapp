@@ -17,9 +17,9 @@ collections:
       - {label: "Title EN", name: title, widget: string}
       - {label: "Title PT", name: title_pt, widget: string}
       - {label: "Title ES", name: title_es, widget: string}
-      - {label: "Content EN", name: content_en, widget: markdown}
-      - {label: "Content ES", name: content_es, widget: markdown}
-      - {label: "Content PT", name: content_pt, widget: markdown}
+      - {label: "Content EN", name: desc_en, widget: markdown}
+      - {label: "Content ES", name: desc_es, widget: markdown}
+      - {label: "Content PT", name: desc_pt, widget: markdown}
       - {label: "Image", name: image, widget: image}
       - {label: "Datetime (UTC)", name: date, widget: datetime, picker_utc: true}
       - {label: "Active", name: active, widget: boolean}

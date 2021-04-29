@@ -31,6 +31,11 @@ items:
     featured: true
     logo: /assets/uploads/digital_democracy.png
     country: Global
+  - name: Centre for Intellectual Property and Information Technology Law
+    country: Kenya
+    website: https://cipit.strathmore.edu/
+    logo: /assets/uploads/strathmore.png
+    featured: false
   - name: Derechos Digitales
     website: https://www.derechosdigitales.org/
     country: Chile
@@ -39,6 +44,11 @@ items:
     actions_pt: Preparing a regional declaration with other 11 digital rights
     featured: false
     logo: /assets/uploads/derechos_digitales.png
+  - name: Electronic Privacy Information Center (EPIC)
+    country: United States
+    logo: /assets/uploads/epic.png
+    website: https://epic.org
+    featured: false
   - name: EngageMedia
     website: https://engagemedia.org
     country: Indonesia
@@ -63,6 +73,11 @@ items:
     actions_pt: ""
     featured: false
     logo: /assets/uploads/media_alternatives.png
+  - name: Free Software Movement of India
+    country: India
+    website: https://www.fsmi.in
+    logo: /assets/uploads/free-india.png
+    featured: false
   - name: Fundación Karisma
     website: https://www.karisma.org.co
     country: Colombia
@@ -79,6 +94,11 @@ items:
     actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/fundacion_via_libre.png
+  - name: Indonesia for Global Justice (IGJ)
+    country: Indonesia
+    website: https://igj.or.id
+    logo: /assets/uploads/indonesia-justice.png
+    featured: false
   - name: Instituto Brasileiro de Defesa do Consumidor
     website: https://idec.org.br
     country: Brazil
@@ -87,6 +107,11 @@ items:
     actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/idec.png
+  - name: Fundación InternetBolivia.org
+    country: Bolivia
+    website: https://www.internetbolivia.org
+    logo: /assets/uploads/internet-bolivia.png
+    featured: false
   - name: IT for Change
     website: https://itforchange.net/
     country: India
@@ -103,6 +128,11 @@ items:
     actions_pt: ""
     featured: false
     logo: /assets/uploads/lclaa.png
+  - name: Luchadoras
+    country: México
+    website: https://luchadoras.mx/
+    logo: /assets/uploads/luchadoras.png
+    featured: false
   - name: Movimento Mulheres Negras Decidem
     website: https://mulheresnegrasdecidem.org/
     country: Brazil
@@ -119,6 +149,11 @@ items:
     actions_pt: ""
     featured: false
     logo: /assets/uploads/oisia.png
+  - name: Paradigm Initiative
+    country: Global
+    website: https://www.paradigmhq.org
+    logo: /assets/uploads/paradigm.png
+    featured: false
   - name: SHARE Foundation
     website: https://www.sharefoundation.info/
     country: Serbia
@@ -135,6 +170,11 @@ items:
     actions_pt: Social media campaign
     featured: true
     logo: /assets/uploads/smex.png
+  - name: Southeast Asia Freedom of Expression Network (SAFEnet)
+    country: Indonesia
+    logo: /assets/uploads/safenet.png
+    website: https://safenet.or.id
+    featured: false
   - name: SumOfUs
     website: https://www.sumofus.org/pt/
     country: Brazil

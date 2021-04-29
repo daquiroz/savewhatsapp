@@ -29,8 +29,7 @@ languages: ["en", "es", "pt"]
 # exclude_from_localizations: ["javascript", "images", "css"]
 # In code, these specific files should be referenced via baseurl_root. E.g.
 # <link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl_root }}"/>
-exclude_from_localizations: ["javascript", "images", "css", "assets"]
-
+exclude_from_localizations: ["javascript", "images", "css", "assets", "_events", "events"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,8 @@
 title: Save Whatsapp
-event_banner_text: Próximo evento lorem ipsum dolor sit amet
 header_home:
   subtitle: "PT Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
+navbar:
+  about: About us
 problems_section:
   title: Lo que Facebook no te dice
   competition_title: PT Why this is a problem for competition
@@ -53,3 +54,5 @@ spread_the_word:
   subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
 events:
   title: Próximos eventos 
+footer:
+  privacy_policy: Privacy policy

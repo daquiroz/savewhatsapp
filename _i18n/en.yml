@@ -1,7 +1,8 @@
 title: Save Whatsapp
-event_banner_text: Webinar - How WhatsApp is moving into commerce
 header_home:
   subtitle: "Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
+navbar:
+  about: About us
 problems_section:
   title: What Facebook won't tell you
   competition_title: Why this is a problem for competition
@@ -56,3 +57,5 @@ spread_the_word:
   subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
 events:
   title: Next events
+footer:
+  privacy_policy: Privacy policy

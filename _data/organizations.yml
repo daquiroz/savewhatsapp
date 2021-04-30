@@ -3,8 +3,8 @@ items:
     website: https://citizen.org
     country: United States
     actions_en: Organizing public events
-    actions_es: Organizing public events
-    actions_pt: Organizing public events
+    actions_es: Organizando eventos públicos
+    actions_pt: Organização de eventos públicos
     featured: true
     logo: /assets/uploads/public_citizen.png
   - name: Association for Progressive Communications
@@ -22,7 +22,7 @@ items:
     logo: /assets/uploads/amandla.png
   - name: Center for Digital Democracy
     actions_en: Urging authorities to act
-    actions_es: Urging authorities to act
+    actions_es: Instando a las autoridades a actuar
     actions_pt: Urging authorities to act
     website: https://www.democraticmedia.org
     featured: true
@@ -37,7 +37,7 @@ items:
     website: https://www.derechosdigitales.org/
     country: Chile
     actions_en: Preparing a regional declaration with other 11 digital rights
-    actions_es: Preparing a regional declaration with other 11 digital rights
+    actions_es: Preparando una declaración con otras 11 organizaciones
     actions_pt: Preparing a regional declaration with other 11 digital rights
     featured: false
     logo: /assets/uploads/derechos_digitales.png
@@ -79,7 +79,7 @@ items:
     website: https://www.karisma.org.co
     country: Colombia
     actions_en: Publishing analysis
-    actions_es: Publishing analysis
+    actions_es: Publicando análisis
     actions_pt: Publishing analysis
     featured: true
     logo: /assets/uploads/karisma.png
@@ -87,7 +87,7 @@ items:
     website: https://www.vialibre.org.ar
     country: Argentina
     actions_en: Urging authorities to act
-    actions_es: Urging authorities to act
+    actions_es: Instando a las autoridades a actuar
     actions_pt: Urging authorities to act
     featured: true
     logo: /assets/uploads/fundacion_via_libre.png
@@ -163,7 +163,7 @@ items:
     website: https://smex.org
     country: Lebanon
     actions_en: Social media campaign
-    actions_es: Social media campaign
+    actions_es: Campaña en medios sociales
     actions_pt: Social media campaign
     featured: true
     logo: /assets/uploads/smex.png
@@ -184,7 +184,7 @@ items:
     website: https://www.tedic.org/
     country: Paraguay
     actions_en: Publishing analysis
-    actions_es: Publishing analysis
+    actions_es: Publicando análisis
     actions_pt: Publishing analysis
     featured: true
     logo: /assets/uploads/tedic.png

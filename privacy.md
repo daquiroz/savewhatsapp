@@ -6,7 +6,7 @@ image_name_mobile: privacy_mobile.png
 title_en: Why this is a problem for privacy
 title_es: Por qué es un problema para la privacidad
 subtitle_en: What Facebook won't tell you
-subtitle_es: ES What Facebook won't tell you
+subtitle_es: Lo que Facebook no te dirá
 ---
 
 

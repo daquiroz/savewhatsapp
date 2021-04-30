@@ -1,51 +1,49 @@
-**WhatsApp locked in many users, who became dependent on it, with the promise to protect their privacy and data.** When these millions of users signed up to WhatsApp before 2014, they were promised repeatedly that the company did not want to gather and commercialize their data. 
+**Con la promesa de que protegería su privacidad y sus datos, WhatsApp atrapó a muchos usuarios que se volvieron dependientes de su servicio.** Cuando estos millones de usuarios se inscribieron en WhatsApp antes de 2014, se les prometió repetidas veces que la compañía no buscaba recolectar ni comercializar sus datos. 
 
-“WhatsApp does not collect names, emails, addresses or other contact information from its users’ mobile address book or contact lists other than mobile phone numbers… We do not collect location data… We do not sell or share your Personally Identifiable Information (such as mobile phone number) with other third-party companies for their commercial or marketing use without your consent.” – [WhatsApp Privacy Policy](https://techcrunch.com/2014/04/10/whatsapp-privacy/), 2012
-
-**2014:** Facebook acquires WhatsApp. 
-
-- “We are absolutely not going to change plans around WhatsApp and the way it uses user data. WhatsApp is going to operate completely autonomously.” – [Mark Zuckerberg](https://epic.org/privacy/ftc/whatsapp/EPIC-CDD-FTC-WhatsApp-Complaint-2016.pdf)
-- “You can still count on absolutely no ads interrupting your communication. There would have been no partnership between our two companies if we had to compromise on the core principles that will always define our company, our vision, and our product.” [(Now former) WhatsApp CEO Jan Koum](https://blog.whatsapp.com/facebook)
-
-**2016:** WhatsApp changed its privacy terms to share 1 billion users’ personal information with Facebook, giving its one billion users 30 days to opt out. 
-
-- “By coordinating more with Facebook, we'll be able to do things like track basic metrics about how often people use our services and better fight spam on WhatsApp. And by connecting your phone number with Facebook's systems, Facebook can offer better friend suggestions and show you more relevant ads if you have an account with them.” – [Looking ahead for WhatsApp](https://blog.whatsapp.com/looking-ahead-for-whats-app)
-- "These changes have been introduced in contradiction with previous public statements of the two companies ensuring that no sharing of data would ever take place." EU’s [ARTICLE 29 Data Protection Working Party](https://www.cnil.fr/sites/default/files/atoms/files/20161027_letter_of_the_chair_of_the_art_29_wp_whatsapp.pdf)
+“WhatsApp no recolecta nombres, emails, direcciones o ninguna otra información de contacto de la [agenda, anuario digital] o lista de contactos de sus usuarios. Solamente recolecta los números de teléfono celular… No recolectamos datos sobre la ubicación… No vendemos o compartimos tus datos personales (como el número de teléfono celular) con otras compañías para su uso comercial o su comercialización (marketing) sin tu consentimiento.” – [Política de Privacidad de WhatsApp](https://techcrunch.com/2014/04/10/whatsapp-privacy/), 2012
 
 
 
-**Since 2016, WhatsApp has become a leading means of communication for 2 billion people across the globe.** It now shares a great deal of information with Facebook it promised it never would, including account information, phone numbers, logging how often and how long someone uses WhatsApp, information about how they interact with other users, IP addresses, browser details, languages, time zones, etc. This latest incursion has highlighted just how much data sharing has been going on for years without most users’ knowledge.
+**2014:** Facebook adquiere WhatsApp. 
 
-**WhatsApp is now a global metadata harvesting operation.** 
-
-![img](https://lh3.googleusercontent.com/rfaqjNe2zi5FCHKI0x8l-_fbh5KH582FciYJ6bY8rZj-oREH_EfDyhhkklQClWZ3MMGinKHSm9fKnkORmjy47iufZyi5cK5z_6_WKCXDDuhrgozkAcL7is_6k6E-7zSyv7xV76I)
-
+- “No vamos a cambiar en absoluto los planes en torno a WhatsApp y la forma en que utiliza los datos de los usuarios. WhatsApp funcionará de forma completamente autónoma.” – [Mark Zuckerberg](https://epic.org/privacy/ftc/whatsapp/EPIC-CDD-FTC-WhatsApp-Complaint-2016.pdf)
+- “Puedes seguir disfrutando del servicio por una cuota mínima. Puedes seguir con WhatsApp sin importar en qué lugar del mundo estés o qué smartphone uses. Sin anuncios ni interrupciones. No habrá alianzas entre ambas compañías si esto significa que se comprometen los principios que siempre nos han definido como compañía, nuestra visión y nuestro producto.” [Jan Koum, antiguo director de WhatsApp](https://blog.whatsapp.com/facebook).
 
 
 
+**2016:** WhatsApp cambió sus términos y condiciones para compartir la información personal de sus mil millones de usuarios con Facebook y les dio 30 días para rechazar los cambios.
 
-**January 2021**: WhatsApp announced an update to its terms of service and privacy policy to expand its data sharing practices with businesses for marketing purposes. [Users were notified](https://faq.whatsapp.com/general/security-and-privacy/what-information-does-whatsapp-share-with-the-facebook-companies) that WhatsApp shares a wide range of their information with other Facebook companies, including:
-
-- phone number and other information provided on registration (such as your name)
-- information about your phone, including make, model, and mobile company
-- your IP address, which indicates location of your internet connection
-- any payments and financial transactions made over WhatsApp
-
-WhatsApp also said it may share any data covered by its privacy policy - which could include contacts, status updates, when people use WhatsApp and for how long, and unique identifying numbers for users' phones.
+- “...al colaborar con Facebook, realizaremos otras actividades como dar seguimiento a las estadísticas sobre el uso de nuestros servicios, o combatir mejor los mensajes no solicitados (spam) en WhatsApp. Y al conectar tu número con los sistemas de Facebook, este podrá ofrecerte mejores sugerencias de amistades y mostrarte anuncios que te resulten relevantes --si tienes una cuenta con ellos.” – [Un vistazo al futuro de WhatsApp](https://blog.whatsapp.com/looking-ahead-for-whats-app) 
+- "Estos cambios han sido introducidos en contradicción con comunicaciones públicas previas de las dos compañías en las que se aseguraba que no se compartirían jamás los datos [de los usuarios]” EU’s [Grupo de trabajo del artículo 29](https://www.cnil.fr/sites/default/files/atoms/files/20161027_letter_of_the_chair_of_the_art_29_wp_whatsapp.pdf)
 
 
 
-**Not all consumers are treated equally.** WhatsApp refuses to protect the privacy and data of all its users with the highest possible standards, namely the GDPR. The gold standard of privacy, the GDPR, has forbidden this type of harvesting for EU citizens, but Facebook continues to surveil the rest of the world. Details of the kind of data collected from non-Europeans by WhatsApp and shared with Facebook is buried in formal documents making up the terms and privacy policy. The new privacy policy creates a two-tier system as it does not affect users located in 27 European Union countries and the UK, though it will compromise the interests of people in most other countries. 
-
-- "There are no changes to WhatsApp’s data sharing practices in the European region arising from the updated terms of service and privacy policy. For the avoidance of any doubt, *it is still the case that WhatsApp does not share European region WhatsApp user data with Facebook* for the purpose of Facebook using this data to improve its products or advertisements," – [Facebook, January 2021](https://www.irishtimes.com/business/technology/whatsapp-says-european-users-do-not-have-to-share-data-with-facebook-1.4452435)
-- "The change in the terms of service, and the requirement of users to share information with Facebook, does not apply to UK users or to users in the EU and that’s because in 2017 my office negotiated with WhatsApp so that they agreed not to share user information and contact information until they could show that they complied with the[ GDPR](https://www.theguardian.com/technology/gdpr)." – [Elizabeth Denham, UK Information Commissioner](https://www.theguardian.com/technology/2021/jan/26/uk-regulator-to-write-to-whatsapp-over-facebook-data-sharing)
-
-![img](https://lh6.googleusercontent.com/EJ27aOOSlAkOl4g5j9PI924QG91KxQJk2rw_cf2an4JZmZ1xsLDSgD0_qZmrE5Lt22nJAyZeNMqkPoKjKV-i5S7GtRgIvo0_XGMVBfdugIMAUPQuvB9ev25GhYzDEYGiPXtpy9k)
+**Desde 2016, WhatsApp se ha convertido en el medio de comunicación predominante de dos mil millones de personas en todo el mundo.** Ahora comparte gran cantidad de información que prometió nunca compartir con Facebook, incluyendo información sobre la cuenta, números de teléfono, registros de cuán seguido y por cuánto tiempo alguien hace uso de WhatsApp, información sobre cómo interactúan con otros usuarios, direcciones IP, detalles de navegación, idiomas, husos horarios, etc. Esta última incursión puso una luz sobre la dimensión de la repartición de datos que ha tenido lugar por años sin que la mayoría de los usuarios fuese consiente de ello.
 
 
 
+**WhatsApp es ahora una operación global de recolección de datos**
+
+![img](https://lh6.googleusercontent.com/rj1VCRTC8kZFmfpgwZSPDX40Ol3lsKz7FVPZMr50eS8PAu8_u2iWDeMaKI0rj2jJznXVxdy5BqF53z3d8Hudkj2-Cfv4bojv47F2DhQV1VmB1v4uhofnu_CComL4XEgQmZo3HXY)
+
+**January 2021**: WhatsApp anunció una actualización de sus términos y condiciones y de su política de privacidad para expandir sus prácticas de repartición de datos con fines de comercialización. [Los usuarios fueron notificados](https://faq.whatsapp.com/general/security-and-privacy/what-information-does-whatsapp-share-with-the-facebook-companies) sobre cómo WhatsApp comparte una gran parte de su información con otras compañías pertenecientes a Facebook: 
+
+- Número de teléfono y otra información dada al momento de la inscripción (como tu nombre, por ejemplo). 
+- Información sobre tu teléfono, incluyendo modelo, marca y compañía telefónica.
+- Tu dirección IP, que indica la ubicación de tu conexión a Internet. 
+- Cualquier pago o transacción financiera hecha por WhatsApp.
 
 
 
+WhatsApp también dijo que podría compartir cualquiera de los datos que estuvieran cubiertos por su política de privacidad, lo que puede incluir contactos, actualizaciones de estatus, cuándo usa la gente WhatsApp y por cuánto tiempo, además de números únicos que pueden identificar los teléfonos de los usuarios.
 
-**We must prevent this privacy discrimination by calling our regulators to rapidly take a stand** and oppose and stop the data flows between WhatsApp and Facebook. Those who can are leaving WhatsApp in large numbers because of concerns of increasing abusive tactics. But many cannot.
+
+
+**No todos los consumidores son tratados igualmente.** WhatsApp rehúsa proteger la privacidad de sus usuarios. Algunos de ellos, no obstante, cuentan otras protecciones, o sea el Reglamento General de Protección de Datos (RGPD). El RGPD, el más alto estándar de privacidad, ha prohibido este tipo de recolección de datos de los ciudadanos europeos. Mientras tanto, Facebook continúa vigilando al resto del mundo. Los detalles sobre el tipo de datos que WhatsApp ha recolectado de ciudadanos no europeos y que ha compartido con facebook está enterrado en los documentos formales que estructuran sus términos y condiciones, así como su política de privacidad. La nueva política de privacidad crea un sistema de dos niveles, pues no afecta a los usuarios localizados en los 27 países de la Unión Europea ni del Reino Unido, pero sí comprometerá los intereses de la gente en la mayoría del resto de los países. 
+
+- "No habrá cambios en las prácticas de repartición de datos dentro de la región europea que vengan de los nuevos términos y condiciones y la política de privacidad. Para que no haya duda alguna, *esto es una realidad hoy: WhatsApp no comparte datos de los usuarios de la región europea con Facebook con el fin de que este último lo use para mejorar sus productos o sus anuncios.*”– [Facebook, January 2021](https://www.irishtimes.com/business/technology/whatsapp-says-european-users-do-not-have-to-share-data-with-facebook-1.4452435)
+- “El cambio de los términos y condiciones y el requerimiento de que los usuarios compartan información con Facebook no aplica a los usuarios del Reino Unido y eso es porque en 2017 mi oficina negoció con WhatsApp y se acordó que ellos no compartirían información de los usuarios ni información de contacto hasta tanto no puedan demostrar que cumplen con los requisitos del RGPD” –[Elizabeth Denham, UK Information Commissioner](https://www.theguardian.com/technology/gdpr)
+
+![img](https://lh4.googleusercontent.com/Yhv5YhyxeMsKvAy7NPY8-c42T5ndw98YxfsJi1nHmwJgyjbiz695IIVCfTa8VIXDf9dt5kfWH3-MPbI0rkI77pDvA6niWHSVnFP0tPBHdhgmLpd_vNXO-T25S9DeKQ1XjKsO_nw)
+
+**Tenemos que detener esta discriminación en el respeto a la privacidad llamando a nuestros reguladores para que sienten posición rápidamente,** pidiéndoles que se opongan y que detengan la fuga de datos entre WhatsApp y Facebook. Aquellos que pueden están dándose de baja de WhatsApp en grandes números por las inquietudes que despiertan estas tácticas cada vez más abusivas. Muchos más, no obstante, no están en posición de hacer lo mismo.

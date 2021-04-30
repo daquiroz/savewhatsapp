@@ -1,45 +1,45 @@
-> “Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.” –[ Mark Zuckerberg](https://www.businessinsider.in/Mark-Zuckerberg-Turns-30-Today-160Heres-His-Life-In-Pictures-And-Quotes/Move-fast-and-break-things-Unless-you-are-breaking-stuff-you-are-not-moving-fast-enough-/slideshow/35123191.cms)
+> “Mova-se rapidamente e quebre as coisas. A menos que você não esteja quebrando coisas, você não está se movendo rápido o suficiente.” –[ Mark Zuckerberg](https://www.businessinsider.in/Mark-Zuckerberg-Turns-30-Today-160Heres-His-Life-In-Pictures-And-Quotes/Move-fast-and-break-things-Unless-you-are-breaking-stuff-you-are-not-moving-fast-enough-/slideshow/35123191.cms)
 
  
 
-**A threat to disconnect in the middle of a global pandemic.** Two billion users are forced to either accept the new terms imposed by Facebook or abandon a network of family, friends, clients, and contacts built over the years and with whom they often communicate daily over the app. During a global pandemic, where borders have become more real than ever, for many losing WhatsApp could mean no access to remote medical advice, no calls to a sick relative, no video call with loved one.
+**Uma ameaça de desconexão no meio de uma pandemia global.** Dois bilhões de usuários são forçados a aceitar os novos termos impostos pelo Facebook ou abandonar a própria rede de parentes, amigos, clientes e contatos, construída ao longo dos anos e com quem costumam se comunicar diariamente pelo aplicativo. Para muitos, durante uma pandemia global onde as fronteiras se tornaram mais concretas do que nunca, deixar de usar o WhatsApp pode significar perder o acesso a aconselhamento médico remoto, deixar de falar ao telefone com um parente doente, não fazer chamadas de vídeo com uma pessoa querida.
 
  
 
-**In some countries, the decision is extremely taxing for minorities, immigrants and poor communities.** In the United States, diaspora communities are especially likely to use WhatsApp to communicate with friends and family abroad.[ Nearly half of Hispanic Americans use WhatsApp compared to just 16 percent of white Americans](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/). Economic constraints and poor broadband infrastructure limit everyday online communication to the use of smartphones in much of the Global South. WhatsApp is among the viable means of communication, particularly in rural areas.
+**Em alguns países, a decisão é extremamente penosa para grupos de minorias, imigrantes e comunidades carentes.** Nos Estados Unidos, as comunidades da diáspora são especialmente propensas a se comunicar pelo WhatsApp com amigos e familiares no exterior.[ Mais da metade dos hispano-americanos usam o WhatsApp, em comparação com apenas 16% dos americanos brancos](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/). Em grande parte do Sul Global, restrições econômicas e deficiências na infraestrutura de banda larga limitam a comunicação online ao uso de smartphones. O WhatsApp está entre os meios de comunicação mais viáveis, principalmente nas áreas rurais.
 
  
 
-**Facebook moved fast and broke promises: Consumers deserve trust and respect rather than sneaky new policies**. Facebook, owned and controlled by Mark Zuckerberg, has failed us over and over again. Making sneaky changes to terms of service and privacy policies has long been Facebook’s pattern. Doing so once again at the height of a global pandemic, when people are relying more than ever on online messaging and communications, reflects a corporate greed willing to go to any length to extract our data and disregard our privacy rights.
+**O Facebook agiu rápido e quebrou promessas. Os consumidores merecem confiança e respeito, em vez de novas políticas furtivas**. O Facebook, empresa de propriedade e sob o controle de Mark Zuckerberg, já nos decepcionou inúmeras vezes. Há muito tempo, a prática padrão do Facebook é fazer mudanças furtivas nos termos de serviço e políticas de privacidade. Porém, voltar a fazer isso no auge de uma pandemia global, quando mais do que nunca as pessoas dependem da troca de mensagens e comunicação online, demonstra a ganância corporativa de uma empresa que está disposta a fazer qualquer coisa para extrair nossos dados e desconsiderar nossos direitos à privacidade.
 
  
 
-**2014:** WhatsApp reaches 400 million users. Facebook buys WhatsApp.
+**2014:** WhatsApp atinge 400 milhões de usuários. Facebook compra o WhatsApp.
 
-●   "We're not looking to drive revenue from WhatsApp in the near term. Instead, we're focusing on growth. I don't anticipate trying to aggressively grow WhatsApp's revenue until the service reaches billions of users." –[ Mark Zuckerberg](https://seekingalpha.com/article/3342555-why-apple-google-facebook-alibaba-or-american-express-will-acquire-paypal)
+●   “Não queremos aumentar a receita do WhatsApp no curto prazo. Em vez disso, estamos nos concentrando no crescimento. Não espero tentar aumentar agressivamente a receita do WhatsApp até que o serviço alcance bilhões de usuários.” – [Mark Zuckerberg](https://seekingalpha.com/article/3342555-why-apple-google-facebook-alibaba-or-american-express-will-acquire-paypal)
 
-**Facebook has breached user privacy**, by sharing data with advertisers and granting third-party access to user information, as well as abused its monopoly market position. In acquiring WhatsApp in 2014, Facebook further consolidated the market in global communications – while promising not to change WhatsApp’s privacy policy. Mark Zuckerberg demonstrated, once again, why he can’t be trusted when he then updated WhatsApp’s privacy policy to begin sharing user data with Facebook.
+Além de abusar da posição de monopólio no mercado, **o Facebook violou a privacidade** dos usuários, compartilhando dados com anunciantes e concedendo o acesso a informações a terceiros. Ao adquirir o WhatsApp, em 2014, o Facebook consolidou ainda mais o mercado de comunicações globais, ao mesmo tempo que prometeu não alterar a política de privacidade do aplicativo. Mark Zuckerberg demonstrou por que não é confiável, mais uma vez, quando atualizou a política de privacidade do WhatsApp para começar a compartilhar dados dos usuários com o Facebook.
 
-**2016**: WhatsApp reaches 1 billion users. Facebook WhatsApp data sharing kicks off.
+**2016**: WhatsApp atinge 1 bilhão de usuários. Começa o compartilhamento de dados entre WhatsApp e Facebook.
 
-●   "By coordinating more with Facebook, we'll be able to do things like track basic metrics about how often people use our services and better fight spam on WhatsApp"
+●   “Essa colaboração com o Facebook nos permite, por exemplo, obter métricas básicas em relação à frequência com que as pessoas usam nosso aplicativo e também conseguiremos ser mais eficazes no combate ao spam no WhatsApp.”
 
-●   "For example, you might see an ad from a company you already work with, rather than one from someone you've never heard of." -[ WhatsApp Blog](https://blog.whatsapp.com/?page=5)
+●   “Por exemplo, você poderá ver um anúncio de uma empresa da qual você já tenha utilizado os serviços ao invés de uma que você nunca tenha ouvido falar.” –[ Blog do WhatsApp](https://blog.whatsapp.com/looking-ahead-for-whats-app)
 
-**2018:** WhatsApp reaches 1,5 billion users. Facebook introduces WhatsApp Business.
+**2018:** WhatsApp atinge 1,5 bilhão de usuários. O Facebook apresenta o WhatsApp Business.
 
-●   "Over the next five years we're focused on building out the business ecosystems around our apps like Instagram, WhatsApp and Messenger." –[ Mark Zuckerberg](https://venturebeat.com/2018/04/25/facebook-whatsapp-business-has-over-3-million-users/)
+●   “Nos próximos cinco anos, estaremos focados em construir ecossistemas de negócios para nossos aplicativos, como Instagram, WhatsApp e Messenger.” –[ Mark Zuckerberg](https://venturebeat.com/2018/04/25/facebook-whatsapp-business-has-over-3-million-users/)
 
-●   “I sold my users’ privacy to a larger benefit. I made a choice and a compromise and I live with that every day.” –[ WhatsApp co-founder Brian Acton](https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/amp/?__twitter_impression=true)
+●   “Eu vendi a privacidade de meus usuários por mais benefícios. Eu fiz uma escolha e um acordo. E vivo com isso todos os dias.” –[ Brian Acton, Cofundador do WhatsApp](https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/amp/?__twitter_impression=true)
 
-**2021:** WhatsApp reaches 2 billion users. WhatsApp’s privacy policy introduces a business messaging function scheduled to take effect from 15 May.
+**2021:** WhatsApp atinge 2 bilhões de usuários. A política de privacidade do WhatsApp apresenta uma função de mensagens comerciais, programada para entrar em vigor em 15 de maio.
 
-●   “We are building new features to make it easier to make a business transaction within the application. We are building tools to allow businesses to store and manage their WhatsApp chats using Facebook's secure hosting infrastructure if they wish and we are in the process of updating WhatsApp's privacy policy on services to reflect this optional experience.” –[ Mark Zuckerberg](https://voi.id/en/technology/30133/zuckerberg-reveals-reasons-for-implementing-whatsapps-new-privacy-policy)
-
- 
-
-**Now, Zuckerberg intends for WhatsApp to contribute directly to Facebook revenues -- at the expense of user privacy.** Facebook hopes to see user’s “opt-in” to business messaging and interact with businesses on WhatsApp. A major driver behind these interactions would be the data (and metadata) that Facebook has collected on users through both Facebook and WhatsApp accounts for the past years, unbeknownst to many users.
+●   “Estamos desenvolvendo novos recursos para facilitar transações comerciais dentro do aplicativo. Estamos desenvolvendo ferramentas para permitir que empresas usem a infraestrutura de hospedagem segura do Facebook para armazenar e gerenciar os bate-papos do WhatsApp, e atualizando a política de privacidade em serviços do WhatsApp para refletir essa experiência opcional.” –[ Mark Zuckerberg](https://voi.id/en/technology/30133/zuckerberg-reveals-reasons-for-implementing-whatsapps-new-privacy-policy)
 
  
 
-The upcoming May 15 policy change shows once again why Facebook cannot be trusted with our data. 
+**Agora, Mark Zuckerberg pretende que o WhatsApp contribua diretamente para a receita do Facebook às custas da privacidade dos usuários.** O Facebook espera que os usuários “optem” por receber mensagens e interagir com empresas no WhatsApp. Um fator importante por trás dessas interações seriam os dados (e metadados) que a empresa coletou nos últimos anos por meio das contas do Facebook e do WhatsApp, sem o conhecimento de muitos usuários.
+
+ 
+
+A nova política, que entra em vigor em 15 de maio, mostra mais uma vez o motivo pelo qual nossos dados não poderiam ser confiados ao Facebook. 

@@ -1,9 +1,9 @@
 <div class="uk-visible@m event-banner bg-green-2 uk-padding-small uk-flex uk-flex-center uk-flex-middle uk-text-center white animated fadeIn delay-1s" uk-grid>
-  <p class="font-medium" style="margin-right: 1rem;">{% t event_banner_text %}</p>
-  <a href="#" class="uk-button uk-button-primary btn-light-green-2">{% t buttons.join_event %}</a>
+  <p class="font-medium" style="margin-right: 1rem;">{{active_events.first.title_en}}</p>
+  <a href="{{active_events.first.url}}" class="uk-button uk-button-primary btn-light-green-2">{% t buttons.join_event %}</a>
 </div>
 
 <div style="margin-top: 0" class="uk-hidden@m event-banner bg-green-2 uk-padding-small uk-flex uk-flex-center uk-text-center white animated fadeIn delay-1s" uk-grid>
-  <div><p class="font-medium">{% t event_banner_text %}</p></div>
-  <div><a style="margin-top: -30px" href="#" class="uk-button uk-button-primary btn-light-green-2">{% t buttons.join_event %}</a></div>
+  <div><p class="font-medium">{{active_events.first.title_en}}</p></div>
+  <div><a style="margin-top: -30px" href="{{active_events.first.url}}" class="uk-button uk-button-primary btn-light-green-2">{% t buttons.join_event %}</a></div>
 </div>

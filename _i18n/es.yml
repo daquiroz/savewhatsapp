@@ -1,35 +1,40 @@
 title: Salva Whatsapp
-event_banner_text: Próximo evento lorem ipsum dolor sit amet
+navbar:
+  about: Sobre la campaña
 header_home:
-  subtitle: "ES Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
+  subtitle: "Mark Zuckerberg te está mintiendo. Llegó el momento de parar este abuso corporativo de una buena vez y salvar WhatsApp para todos."
 problems_section:
-  title: Lo que Facebook no te dice
-  competition_title: ES Why this is a problem for competition
-  consumers_title: ES Why this is a problem for consumers
-  privacy_title: ES Why this is a problem for our privacy
+  title: Lo que Facebook no te dirá
+  competition_title: ¿Por qué es este un problema para la libre competencia?
+  consumers_title: ¿Por qué es este un problema para los consumidores?
+  privacy_title: ¿Por qué es este un problema para nuestra privacidad?
 buttons:
-  learn_more: Saber más
+  learn_more: Más información
   more_to_share: Más para compartir
   join_event: Únete al evento
   see_all: Ver todo
   read_letter_web: Lee su carta a Facebook y Whatsapp
   read_letter_mobile: Lee la carta
+  register_here: "Registrate"
 video_section:
-  title: Lorem ipsum dolor sit amet
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: La cuenta regresiva para Mark
+  description:   "WhatsApp está bajo ataque. El tiempo se le acaba a Mark Zuckerberg para cambiar su decisión de cambiar la política de privacidad de WhastApp y empoderar a los usuarios para que protejan sus datos personales. <br>
+  
+  Somos ciudadanos, activistas, legisladores y usuarios de WhatsApp en todas partes del mundo y estamos organizándonos para retomar el control de nuestra privacidad, rechazar esta política y hacer oír nuestro mensaje:<br>
+
+  <strong>Paremos a Facebook, salvemos WhatsApp.</strong>"
 organizations_section:
-  title: ES A GLOBAL MOVEMENT FOR ACTION
   subtitle: ES Authorities across the planet unite to Save WhatsApp, Stop Facebook
-  button_read: ES read theIR letter to facebook and whatsapp
-  title_who: ES WHO IS DOING WHAT IN YOUR COUNTRY 
-  title: ES Lorem ipsum dolor sit amet
+  button_read: Lee la carta a Facebook y a Whatsapp
+  title_who: Quién y qué acciones se hacen en tu país 
+  title: Un movimiento global para la acción
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 take_action_section:
-  title: ES Lorem ipsum dolor sit amet
-  description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: Corre la voz
+  description: "Comparte la campaña #SalvemosWhastApp, apoya la coalición de organizaciones y exige a las autoridades locales defender los derechos de los usuarios de WhatsApp en tu país."
 organizations:
   title: who is doing what in your country
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
   title: La Coalición
@@ -47,4 +52,10 @@ authorities:
     position: Posición
     country: País
     party: Partido
-privacy_policy: Política de Privacidad
+spread_the_word:
+  title: "más para compartir"
+  subtitle: "Comparte nuestro material con la etiqueta #SalvemosWhatsApp y corre la voz"
+events:
+  title: Asiste a nuestro próximo evento
+footer:
+  privacy_policy: Política de Privacidad

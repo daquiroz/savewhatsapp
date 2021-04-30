@@ -1,15 +1,19 @@
-<section class="uk-section bg-gray-2 animated fadeIn" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
+<section class="uk-section bg-gray-2 animated fadeIn">
     <div class="uk-container uk-width-5-6@m">
 
-        <div class="uk-text-center">
+        <div class="uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
+          <div>
             <h2 > {% t organizations_section.title %} </h2>
             <!-- <p class="font-large">{% t organizations_section.subtitle %}</p>
             <a class="uk-button uk-button-default btn-blue uk-hidden@s"> {% t buttons.read_letter_mobile %} </a>
             <a class="uk-button uk-button-default btn-blue uk-visible@s"> {% t buttons.read_letter_web %} </a> -->
             <br>
             <img class="uk-padding" src="{{site.baseurl_root}}/assets/images/map.png" alt="Map">
+          </div>
         </div>
 
+        <div uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
+        <div>
         <div class="uk-padding-large uk-text-center">
             <h2> {% t organizations_section.title_who %} </h2>
         </div>
@@ -47,9 +51,11 @@
             </div>
 
         </div>
+        </div>
 
         <!-- <div class="uk-text-center uk-padding">
             <a href="{{site.baseurl}}/organizations" class="uk-button uk-button-default btn-dark" type="button">{% t buttons.see_all %}</a>
         </div> -->
+    </div>
     </div>
 </section>

@@ -9,4 +9,7 @@ subtitle_en: What Facebook won't tell you
 subtitle_es: ES What Facebook won't tell you
 ---
 
-{% translate_file topic/privacy.md %}
+
+<div class="uk-width-2xlarge uk-text-justify uk-align-center">
+  {% translate_file topic/privacy.md %}
+</div>

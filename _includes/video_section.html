@@ -1,20 +1,17 @@
-<section class="uk-section bg-gray-2 animated fadeIn delay-3s fast">
-  <div class="uk-container">
-    <div class="uk-grid-medium uk-child-width-1-2@m uk-flex uk-flex-middle" uk-grid>
-      <div class="uk-visible@m">
-        <h2>{%t video_section.title%}</h2>
-        <p class="font-large">{% t video_section.description %}</p>
-        <a href="#" class="uk-button uk-button-default btn-dark">{% t buttons.learn_more %}</a>
-      </div>
-      <div class="uk-hidden@m uk-text-center">
-        <h2>{%t video_section.title%}</h2>
-        <p class="font-large">{% t video_section.description %}</p>
-        <a href="#" class="uk-button uk-button-default btn-dark">{% t buttons.learn_more %}</a>
-      </div>
+<section class="uk-section bg-gray-2">
+  <div class="uk-container uk-flex uk-flex-center uk-text-center animated fadeIn delay-3s fast">
+    <div class="uk-width-3-4@m uk-flex uk-flex-center" uk-grid>
       <div>
         <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" controls
-          preload="auto" poster="{{site.baseurl_root}}/assets/images/video_poster.png" style="margin-top: 2rem;"></video>
+          preload="auto" poster="{{site.baseurl_root}}/assets/images/video_poster.png" style="margin: -3rem 0 6rem;"></video>
       </div>
+    </div>
+  </div>
+  <div class="uk-text-center" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100; repeat: false">
+    <div class="uk-container uk-width-2-3@m uk-text-center">
+        <h2 class="uk-text-center">{%t video_section.title%}</h2>
+        <p class="font-large space-after">{% t video_section.description %}</p>
+        <a href="{{site.baseurl}}/campaign" class="uk-button uk-button-default btn-dark uk-text-center">{% t buttons.learn_more %}</a>
     </div>
   </div>
 </section>

@@ -39,7 +39,14 @@ h3, h4 {
   font-weight: 400;
 }
 
-a,
+a{
+  color: $blue;
+  &:hover, &:focus {
+    color: $blue;
+    text-decoration: underline;
+  }
+}
+
 .uk-navbar-item,
 .uk-navbar-toggle,
 .uk-navbar-nav > li > a {
@@ -62,9 +69,28 @@ a.a-green:focus{
   color: $blue;
 }
 
+.space-after{
+  br{
+    margin-bottom: 15px;
+  }
+  blockquote{
+    margin-bottom: 15px;
+  }
+}
+
+strong {
+	font-weight: normal;
+	font-family: 'anton',inherit sans-serif;
+	text-transform: uppercase;
+  font-size: 1.6rem;
+}
+
+em{
+  color: $dark;
+}
 
 .title-image-card{
-  margin-bottom: -160px;
+  margin-bottom: -170px;
   position: relative;
   z-index: 10;
   padding: 20px 20px 0 20px;
@@ -138,7 +164,7 @@ a.a-green:focus{
 
 .font-medium{
   font-size: 1.1rem !important;
-  line-height: 1.6rem !important;
+  line-height: 1.9rem !important;
 }
 
 .font-large{
@@ -147,7 +173,17 @@ a.a-green:focus{
 }
 
 footer{
+  margin-top: 100px;
   padding: 30px 0 30px;
+}
+
+
+.uk-icon-link {
+  color: $dark;
+  margin: 10px 5px;
+  &:hover, &:focus {
+    color: $blue !important;
+  }
 }
 
 /**

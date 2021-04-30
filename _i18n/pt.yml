@@ -1,7 +1,8 @@
 title: Save Whatsapp
-event_banner_text: Próximo evento lorem ipsum dolor sit amet
 header_home:
   subtitle: "PT Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
+navbar:
+  about: About us
 problems_section:
   title: Lo que Facebook no te dice
   competition_title: PT Why this is a problem for competition
@@ -14,6 +15,7 @@ buttons:
   see_all: Ver todo
   read_letter_web: Lee su carta a Facebook y Whatsapp
   read_letter_mobile: Lee la carta
+  register_here: "Register here"
 video_section:
   title: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
@@ -21,7 +23,7 @@ organizations_section:
   title: PT A GLOBAL MOVEMENT FOR ACTION
   subtitle: PT Authorities across the planet unite to Save WhatsApp, Stop Facebook
   button_read: PT read theIR letter to facebook and whatsapp
-  title_who: PT WHO IS DOING WHAT IN YOUR COUNTRY 
+  title_who: PT WHO IS DOING WHAT IN YOUR COUNTRY
   title: PT Lorem ipsum dolor sit amet
   description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 take_action_section:
@@ -29,7 +31,7 @@ take_action_section:
   description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 organizations:
   title: who is doing what in your country
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
   description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
   title: La Coalición
@@ -47,4 +49,10 @@ authorities:
     position: Posición
     country: País
     party: Partido
-privacy_policy: Política de Privacidade
+spread_the_word:
+  title: "MORE TO SHARE"
+  subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
+events:
+  title: Próximos eventos 
+footer:
+  privacy_policy: Privacy policy

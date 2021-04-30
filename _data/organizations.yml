@@ -7,6 +7,11 @@ items:
     actions_pt: Organizing public events
     featured: true
     logo: /assets/uploads/public_citizen.png
+  - name: Association for Progressive Communications
+    country: Global
+    website: https://www.apc.org/
+    logo: /assets/uploads/apc.png
+    featured: false
   - name: amandla.mobi
     website: https://amandla.mobi/
     country: South Africa
@@ -15,14 +20,6 @@ items:
     actions_pt: ""
     featured: false
     logo: /assets/uploads/amandla.png
-  # - name: Association for Progressive Communications
-  #   website: https://www.apc.org
-  #   country: Global
-  #   actions_en: ""
-  #   actions_es: ""
-  #   actions_pt: ""
-  #   featured: false
-  #   logo: /assets/uploads/apc.png
   - name: Center for Digital Democracy
     actions_en: Urging authorities to act
     actions_es: Urging authorities to act

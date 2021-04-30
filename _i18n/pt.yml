@@ -1,48 +1,47 @@
 title: Save Whatsapp
 header_home:
-  subtitle: "PT Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
+  subtitle: "Mark Zuckerberg está mentindo para você. Está na hora colocar um ponto final nesse abuso corporativo e salvar o WhatsApp para todos."
 navbar:
   about: About us
 problems_section:
-  title: Lo que Facebook no te dice
-  competition_title: PT Why this is a problem for competition
-  consumers_title: PT Why this is a problem for consumers
-  privacy_title: PT Why this is a problem for our privacy
+  title: "O que o Facebook não vai te contar"
+  competition_title: "Por que é um problema para a competição"
+  consumers_title: "Por que é um problema para os consumidores"
+  privacy_title: "Por que é um problema para nossa privacidade"
 buttons:
-  learn_more: Saber más
-  more_to_share: Más para compartir
-  join_event: Únete al evento
-  see_all: Ver todo
-  read_letter_web: Lee su carta a Facebook y Whatsapp
-  read_letter_mobile: Lee la carta
+  learn_more: "Saiba mais"
+  more_to_share: "Compartilhe"
+  join_event: "Participe"
+  see_all: "Ver tudo"
+  read_letter_web: "Leia a carta aberta ao Facebook e WhatsApp"
+  read_letter_mobile: "Leia a carta aberta"
   register_here: "Register here"
 video_section:
-  title: Lorem ipsum dolor sit amet
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: "Contagem regressiva para Mark"
+  description: "O WhatsApp está sob ataque. O tempo está se esgotando para Mark Zuckerberg reverter a decisão de mudar a política de privacidade do WhatsApp e delegar a todos os usuários o poder de proteger os próprios dados pessoais.<br>
+    Nós, cidadãos, ativistas, legisladores e usuários do WhatsApp em todo o mundo, estamos nos organizando para recuperar nossa privacidade, rejeitar a nova política e levantar nossa voz para dizer:<br>
+    <strong>Pare o Facebook. Salve o WhatsApp.</strong>"
 organizations_section:
-  title: PT A GLOBAL MOVEMENT FOR ACTION
+  title: "Um movimento global para exigir ação"
   subtitle: PT Authorities across the planet unite to Save WhatsApp, Stop Facebook
-  button_read: PT read theIR letter to facebook and whatsapp
-  title_who: PT WHO IS DOING WHAT IN YOUR COUNTRY
-  title: PT Lorem ipsum dolor sit amet
-  description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  button_read: "Leia a carta aberta ao Facebook e WhatsApp"
+  title_who: "QUEM ESTÁ FAZENDO O QUE NO SEU PAÍS"
 take_action_section:
-  title: PT Lorem ipsum dolor sit amet
-  description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+  title: "Divulgue a campanha"
+  description: "Compartilhe a campanha #SaveWhastApp, apoie as organizações da aliança e exija que as autoridades locais defendam os direitos dos usuários do WhatsApp no seu país."
 organizations:
-  title: who is doing what in your country
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+  title: Who is doing what in your country
   description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 coalition_section:
-  title: La Coalición
+  title: "A coalizão"
 countdown:
-  days: Días
+  days: Dias
   hours: Horas
   minutes: Minutos
   seconds: Segundos
 authorities:
   title: Autoridades a lo largo del planeta se unieron para salvar whatsapp, detener facebook
-  description: ES Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
+  description: PT Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
   signatories: Signatári@s
   t_headers:
     name: Nombre
@@ -50,9 +49,9 @@ authorities:
     country: País
     party: Partido
 spread_the_word:
-  title: "MORE TO SHARE"
-  subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
+  title: "Compartilhe"
+  subtitle: "Compartilhe nossos materiais com a hashtag #SaveWhatsApp e divulgue a campanha"
 events:
-  title: Próximos eventos 
+  title: "Participe do próximo evento"
 footer:
-  privacy_policy: Privacy policy
+  privacy_policy: "Política de Privacidade"

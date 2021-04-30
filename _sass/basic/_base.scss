@@ -42,8 +42,8 @@ h3, h4 {
 a{
   color: $blue;
   &:hover, &:focus {
-    color: $green-1 !important;
-    text-decoration: none;
+    color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -69,6 +69,15 @@ a.a-green:focus{
   color: $blue;
 }
 
+.space-after{
+  br{
+    margin-bottom: 15px;
+  }
+  blockquote{
+    margin-bottom: 15px;
+  }
+}
+
 strong {
 	font-weight: normal;
 	font-family: 'anton',inherit sans-serif;
@@ -76,8 +85,12 @@ strong {
   font-size: 1.6rem;
 }
 
+em{
+  color: $dark;
+}
+
 .title-image-card{
-  margin-bottom: -160px;
+  margin-bottom: -170px;
   position: relative;
   z-index: 10;
   padding: 20px 20px 0 20px;

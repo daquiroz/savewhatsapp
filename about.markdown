@@ -8,4 +8,6 @@ title_es: Sobre la campaña
 title_pt: About us
 ---
 
-{% translate_file about.md %}
+<div class="uk-width-2xlarge uk-text-justify uk-align-center">
+  {% translate_file about.md %}
+</div>

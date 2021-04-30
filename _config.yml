@@ -21,7 +21,7 @@
 title: "Stop Facebook, Save Whatsapp"
 description: "Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://savewhatsapp.org" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 
 languages: ["en", "es", "pt"]

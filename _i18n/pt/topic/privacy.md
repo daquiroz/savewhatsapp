@@ -20,7 +20,7 @@
 
 **O WhatsApp agora é uma operação global de coleta de metadados.** 
 
-![img](https://lh5.googleusercontent.com/s5HF-YmMYm_7ufeayx_8L39RbWTrCWu5MyIOUB25EUp-B2iJ1DtJjbzW9Qh9lSalXYO-YJxLvWv25d5HIT-x4uXUhmJbKDQbq8qM8FFw1uAWPQsQ9RqeGfVNCvPBK-5G2PBftT8)
+![img](https://specials-images.forbesimg.com/imageserve/6002db5f4c05b41da920bdd1/960x0.jpg)
 
 **Janeiro de 2021**: O WhatsApp anunciou uma atualização dos termos de serviço e da política de privacidade para expandir as práticas de compartilhamento de dados com empresas para fins de marketing. [Os usuários foram notificados](https://faq.whatsapp.com/general/security-and-privacy/what-information-does-whatsapp-share-with-the-facebook-companies) de que o WhatsApp compartilhava uma grande quantidade de informações com outras empresas do Facebook, incluindo:
 

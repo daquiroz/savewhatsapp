@@ -18,7 +18,7 @@
 
 **WhatsApp is now a global metadata harvesting operation.** 
 
-![img](https://lh3.googleusercontent.com/rfaqjNe2zi5FCHKI0x8l-_fbh5KH582FciYJ6bY8rZj-oREH_EfDyhhkklQClWZ3MMGinKHSm9fKnkORmjy47iufZyi5cK5z_6_WKCXDDuhrgozkAcL7is_6k6E-7zSyv7xV76I)
+![img](https://specials-images.forbesimg.com/imageserve/6002db5f4c05b41da920bdd1/960x0.jpg)
 
 
 

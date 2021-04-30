@@ -24,7 +24,7 @@
 
 **WhatsApp es ahora una operación global de recolección de datos**
 
-![img](https://lh6.googleusercontent.com/rj1VCRTC8kZFmfpgwZSPDX40Ol3lsKz7FVPZMr50eS8PAu8_u2iWDeMaKI0rj2jJznXVxdy5BqF53z3d8Hudkj2-Cfv4bojv47F2DhQV1VmB1v4uhofnu_CComL4XEgQmZo3HXY)
+![img](https://specials-images.forbesimg.com/imageserve/6002db5f4c05b41da920bdd1/960x0.jpg)
 
 **January 2021**: WhatsApp anunció una actualización de sus términos y condiciones y de su política de privacidad para expandir sus prácticas de repartición de datos con fines de comercialización. [Los usuarios fueron notificados](https://faq.whatsapp.com/general/security-and-privacy/what-information-does-whatsapp-share-with-the-facebook-companies) sobre cómo WhatsApp comparte una gran parte de su información con otras compañías pertenecientes a Facebook: 
 

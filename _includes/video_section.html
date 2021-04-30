@@ -2,7 +2,8 @@
   <div class="uk-container uk-flex uk-flex-center uk-text-center animated fadeIn delay-3s fast">
     <div class="uk-width-3-4@m uk-flex uk-flex-center" uk-grid>
       <div>
-        <video src="{{site.baseurl_root}}/assets/videos/Stop_FB_Save_WA_Cut_06_EN.mp4" controls
+        {% assign video_title = "Stop_FB_Save_WA_Cut_06_" | append: site.lang %}
+        <video src="{{site.baseurl_root}}/assets/videos/{{video_title | upcase}}.mp4" controls
           preload="auto" poster="{{site.baseurl_root}}/assets/videos/thumbnail.png" style="margin: -3rem 0 6rem;"></video>
       </div>
     </div>

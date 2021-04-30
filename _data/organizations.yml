@@ -99,9 +99,9 @@ items:
   - name: Instituto Brasileiro de Defesa do Consumidor
     website: https://idec.org.br
     country: Brazil
-    actions_en: Urging authorities to investigate/suspend the new policy
-    actions_es: Presionando a autoridades a investigar/suspender nueva política
-    actions_pt: Pressionando autoridades para investigação/suspensão da nova política
+    actions_en: Urging authorities to suspend the new policy
+    actions_es: Presionando a autoridades a suspender nueva política
+    actions_pt: Pressionando autoridades para suspensão da nova política
     featured: true
     logo: /assets/uploads/idec.png
   - name: Fundación InternetBolivia.org

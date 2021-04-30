@@ -1,32 +1,33 @@
- > “It is better to buy than compete” –[ Mark Zuckerberg (2008)](https://www.npr.org/2020/12/11/945234491/the-wrath-of-mark-takeaways-from-the-governments-case-against-facebook)
+> "Es mejor comprar que competir” – [Mark Zuckerberg (2008)](https://www.npr.org/2020/12/11/945234491/the-wrath-of-mark-takeaways-from-the-governments-case-against-facebook)
 
 
 
-**Facebook is the dominant company in the global market for social networks.** Billions around the world use Facebook services - Facebook, WhatsApp, and Instagram - in order to connect to friends and family. There are no meaningful alternatives to Facebook’s services. WhatsApp has more than 2 billion users worldwide. This gives it the power to coerce people to stick to any change of rules.
+**Facebook es la compañía más importante en el mercado global de las redes sociales.** Miles de millones de personas en todo el mundo usan los servicios de Facebook (Facebook, WhatsApp, e Instagram) para comunicarse con amigos y familiares. No hay alternativas fuertes a los servicios de Facebook. WhatsApp tiene dos mil millones de usuarios. Esto da poder suficiente como para obligar a la gente a que acepte cualquier cambio en las reglas. 
 
-**WhatsApp dominates the market for messaging services in all but 25 countries.** It is the most widely used messenger app in the world, with penetration rates among Internet users aged 16-64 above 90 percent in countries such as[ Kenya, South Africa, Nigeria, Argentina, Colombia, Malaysia, and Brazil.](https://www.businessofapps.com/data/whatsapp-statistics/) The growing market dominance of digital platforms stems from the personal “data” that they collect free of cost from their users, and then use to profile them.
-
- 
-
-Competition authorities recognize **Facebook’s data-opoly.**
-
-**“As a dominant company Facebook is subject to special obligations under competition law.** In the operation of its business model the company must take into account that Facebook *users practically cannot switch to other social networks.* In view of Facebook’s superior market power, an obligatory tick on the box to agree to the company’s terms of use is not an adequate basis for such intensive data processing. The only choice the user has is either to accept the comprehensive combination of data or to refrain from using the social network. In such a difficult situation the user’s choice cannot be referred to as voluntary consent." *–*[ German Bundeskartellamt (Competition Authority)](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568)*,*2019
-
- 
-
-**And competition authorities have the tools to curb Mark Zuckerberg’s power**
-
-🇮🇹 In 2017,[ the Italian Competition Authority fined](https://www.competitionpolicyinternational.com/italy-regulator-fines-whatsapp-e3m-for-data-sharing/) WhatsApp Inc. €3 million for practices in violation of the Italian Consumer Code and forcing its customers to wholly accept the new “Terms and Conditions”, in particular regarding the sharing of their personal data with Facebook.
-
-🇩🇪 In 2019[ the German Bundeskartellamt (Competition Authority)](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568) held that the extent to which Facebook collects, merges and uses data in user accounts constitutes an abuse of a dominant position. It imposed far-reaching restrictions on Facebook’s processing of user data to stop it from combining data from different sources, including from Facebook-owned apps like WhatsApp.
-
-🇺🇸 In December 2020,[ the United States Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization) and[ 48 Attorneys General](https://ag.ny.gov/press-release/2020/attorney-general-james-leads-multistate-lawsuit-seeking-end-facebooks-illegal) sued Facebook, alleging illegal anti-competitive conduct and calling for Facebook to be broken up.
-
-🇹🇷 In January 2021,[ the Turkish Competition Authority](https://www.rekabet.gov.tr/en/Guncel/competition-board-launched-an-investigat-c9382b8cb15ceb11812900505694b4c6) launched an investigation into Facebook and WhatsApp over the messaging application’s changes to its data sharing rules and issued an injunction for suspension of WhatsApp’s new data collection rules in Turkey.
-
-🇮🇳 In March 2021, the Competition Commission of India found that the proposed 2021 WhatsApp change, to share data with Facebook, is prima facie an abuse of dominance and[ ordered an investigation](https://www.cci.gov.in/sites/default/files/SM01of2021_0.pdf) to be completed within 60 days.
-
-We need more regulators to act before it is too late.        
+**WhatsApp domina el mercado de los mensajes de mensajería en unos 25 países.** Es la aplicación de mensajería más extendida del mundo, con niveles de penetración entre usuarios de internet de 16 a 64 años de edad y en más del 90% de estos usuarios en países como [Kenia, Sudáfrica, Nigeria, Argentina, Colombia, Malasia y Brasil.](https://www.businessofapps.com/data/whatsapp-statistics/) La dominación creciente en el mercado de las plataformas digitales deriva de los “datos” personales que recolectan de modo gratuito entre sus usuarios y que luego usan para armar sus perfiles.
 
 
-​            
+
+Las autoridades de competencia reconocen el *datopolio* de Facebook.
+
+
+
+**“En su calidad de compañía dominante, Facebook está sujeto a obligaciones especiales bajo la ley de competencia”.** En el ejercicio de su modelo de negocios la compañía debe tomar en cuenta que los *usuarios de Facebook no pueden cambiar de red social.*En vista del poder de Facebook sobre el mercado, una aceptación forzada de los términos y condiciones de la compañía no es un punto de partida adecuado para un procesamiento de datos tan intensivo. La única opción que tiene el usuario es o bien aceptar esta combinación comprensiva de los datos o dejar de usar la red social. En una situación tan difícil, la opción de los usuarios no puede pensarse como un consentimiento voluntario. *–* [*Bundeskartellamt* de Alemania (autoridad de competencia)](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568)*,*2019
+
+
+
+**Las autoridades de competencia tienen las herramientas para limitar el poder de Mark Zuckerberg’s**
+
+
+
+🇮🇹 En 2017, [la Autoridad de Competencia Italiana](https://www.competitionpolicyinternational.com/italy-regulator-fines-whatsapp-e3m-for-data-sharing/) multó a WhatsApp Inc. por 3 millones de euros a causa de la violación del Código del Consumidor Italiano que supuso pedir a los usuarios que aceptaran completamente los “términos y condiciones”, particularmente en lo que se refiere al hecho de compartir sus datos personales con Facebook.
+
+🇩🇪 In 2019 [el Bundeskartellamt alemán (autoridad de competencia)](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568) sostuvo que la extensión con la que Facebook recolecta, combina y usa los datos en las cuentas de los usuarios constituye un abuso de su posición. La autoridad impuso restricciones de largo alcance en el procesamiento de datos de Facebook para evitar que lo combinara con diferentes fuentes de datos, incluyendo fuentes que le pertenecen a Facebook, como es el caso de WhatsApp.
+
+🇺🇸 En diciembre de 2020 [la Comisión Federal de Comercio](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization) y [48 fiscales generales](https://ag.ny.gov/press-release/2020/attorney-general-james-leads-multistate-lawsuit-seeking-end-facebooks-illegal) demandaron a Facebook, alegando conductas ilegales y anticompetitivas y pidiendo que se disuelva a Facebook.
+
+🇹🇷 En enero de 2021 [la Autoridad de Competencia Turca](https://www.rekabet.gov.tr/en/Guncel/competition-board-launched-an-investigat-c9382b8cb15ceb11812900505694b4c6) comenzó una investigación sobre Facebook y WhatsApp, enfocándose en los cambios de la aplicación a sus reglas para compartir datos. La autoridad emitió una orden de suspensión de las nuevas reglas de recolección de datos de WhatsApp en Turquía. 
+
+🇮🇳 En marzo de 2021, la Comisión de Competencia de la India encontró que en los cambios propuestos en 2021 por WhatsApp, con los que se busca compartir datos con Facebook, es a *prima facie* un abuso de su predominio y ordenó una investigación que deberá completarse dentro de 60 días.
+
+Necesitamos que más organismos reguladores actúen antes de que sea demasiado tarde. 

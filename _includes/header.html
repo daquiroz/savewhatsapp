@@ -2,6 +2,7 @@
     <nav class="uk-navbar-container animated fadeIn delay-1s">
       <div class="uk-container uk-width-1-1 nav-width">
         <div uk-navbar>
+          {% if include.logo %}
           <div class="uk-navbar-left">
             <ul class="uk-list">
               <li>
@@ -69,6 +70,7 @@
               </li>
             </ul>
           </div>
+          {% endif %}
           <div class="uk-visible@m uk-navbar-right">
             <ul class="uk-navbar-nav">
               <li><a href="{{site.baseurl}}/about">{% t navbar.about %}</a></li>
@@ -113,40 +115,10 @@
               <div class="uk-offcanvas-bar uk-flex uk-flex-column uk-flex-middle uk-text-center">
                   <button class="uk-offcanvas-close" type="button" uk-close></button>
                   <ul class="uk-list">
-                    <li><a href="{{site.baseurl}}/about">{% t navbar.about %}</a></li>
-                    <li>
-                      {% if site.lang == "en" %}
-                        {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-                        {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
-                        <a href="#">EN</a>
-                        <div class="uk-navbar-dropdown">
-                          <ul class="uk-nav uk-navbar-dropdown-nav">
-                              <li><a href="{{ link_es }}">ES</a></li>
-                              <li><a href="{{ link_pt }}">PT</a></li>
-                          </ul>
-                        </div>
-                      {% elsif site.lang == "pt" %}
-                        {% capture link_en %}https://savewhatsapp.org{{ page.url}}{% endcapture %}
-                        {% capture link_es %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-                        <a href="#">PT</a>
-                        <div class="uk-navbar-dropdown">
-                          <ul class="uk-nav uk-navbar-dropdown-nav">
-                              <li><a href="{{ link_en }}">EN</a></li>
-                              <li><a href="{{ link_es }}">ES</a></li>
-                          </ul>
-                        </div>
-                      {% elsif site.lang == "es" %}
-                        {% capture link_en %}https://savewhatsapp.org/{{ page.url}}{% endcapture %}
-                        {% capture link_pt %}{{ site.baseurl_root }}/pt{{ page.url}}{% endcapture %}
-                        <a href="#">ES</a>
-                        <div class="uk-navbar-dropdown">
-                          <ul class="uk-nav uk-navbar-dropdown-nav">
-                              <li><a href="{{ link_en }}">EN</a></li>
-                              <li><a href="{{ link_pt }}">PT</a></li>
-                          </ul>
-                        </div>
-                      {% endif %}
-                    </li>
+                    <li><a href="{{ site.baseurl }}/about">{% t navbar.about %}</a></li>
+                    <li><a href="{{ page.url }}">EN</a></li>
+                    <li><a href="{{ site.baseurl }}/es">ES</a></li>
+                    <li><a href="{{ site.baseurl }}/pt">PT</a></li>
                   </ul>
               </div>
             </div>

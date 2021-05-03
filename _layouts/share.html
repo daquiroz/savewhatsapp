@@ -7,7 +7,7 @@ layout: default
     {% assign title_lang = "title_" | append: site.lang %}
     {% assign title = page[title_lang] %}
 
-    {%- include header.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
+    {%- include header.html logo=true -%}
 
     {%- include welcome_page.html title=title image_name_mobile=page.image_name_mobile image_name=page.image_name subtitle=subtitle -%}
 

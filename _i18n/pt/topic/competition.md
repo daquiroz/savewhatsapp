@@ -6,13 +6,13 @@
 
 **O WhatsApp domina o mercado de serviços de mensagens em quase 25 países.** É o aplicativo de troca de mensagens mais usado no mundo, com mais de 90% de taxa de penetração entre internautas de 16 a 64 anos em países como[ Quênia, África do Sul, Nigéria, Argentina, Colômbia, Malásia e Brasil.](https://www.businessofapps.com/data/whatsapp-statistics/) O crescente domínio do mercado de plataformas digitais decorre dos dados pessoais coletados gratuitamente dos usuários que, em seguida, são usados para rastrear as pessoas.
 
- 
+
 
 As Autoridade de Defesa da Concorrência reconhecem **o monopólio de dados do Facebook.**
 
 **“Como empresa dominante, o Facebook está sujeito a obrigações especiais de acordo com as leis de concorrência.** Na operacionalização de seu modelo de negócios, a empresa deve levar em consideração que *os usuários do Facebook praticamente não podem migrar para outras redes sociais.* Diante do superior poder de mercado do Facebook, fornecer uma caixa obrigatória para concordar com os termos de uso da empresa não é adequado para um processamento tão intensivo dos dados. A única escolha que o usuário tem é aceitar a associação abrangente dos dados ou abster-se de usar a rede social. Em uma situação tão difícil, a opção do usuário não pode ser referida como consentimento voluntário.” *-*[ Bundeskartellamt, Autoridade de Defesa da Concorrência Alemã,](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568) 2019
 
- 
+
 
 As Autoridade de Defesa da Concorrência têm as ferramentas para restringir o poder de Mark Zuckerberg
 
@@ -27,5 +27,8 @@ Em janeiro de 2021,[ a Autoridade de Defesa da Concorrência Turca](https://www.
 Em março de 2021, a Comissão de Concorrência da Índia concluiu que a alteração proposta, autorizando o WhatsApp a compartilhar dados com o Facebook, é prima facie um abuso de domínio e[ ordenou uma investigação](https://www.cci.gov.in/sites/default/files/SM01of2021_0.pdf) com prazo de 60 dias.
 
 Precisamos que mais reguladores entrem em ação antes que seja tarde demais.
+
+<a style="margin-top:30px" class="uk-button uk-button-default btn-blue" target="_blank" href="{{site.baseurl_root}}/assets/docs/pt-competição.pdf">Baixar como pdf <span uk-icon="download"></span></a>
+
 
 ​                        

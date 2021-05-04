@@ -1,18 +1,18 @@
 > “Mova-se rapidamente e quebre as coisas. A menos que você não esteja quebrando coisas, você não está se movendo rápido o suficiente.” –[ Mark Zuckerberg](https://www.businessinsider.in/Mark-Zuckerberg-Turns-30-Today-160Heres-His-Life-In-Pictures-And-Quotes/Move-fast-and-break-things-Unless-you-are-breaking-stuff-you-are-not-moving-fast-enough-/slideshow/35123191.cms)
 
- 
+
 
 **Uma ameaça de desconexão no meio de uma pandemia global.** Dois bilhões de usuários são forçados a aceitar os novos termos impostos pelo Facebook ou abandonar a própria rede de parentes, amigos, clientes e contatos, construída ao longo dos anos e com quem costumam se comunicar diariamente pelo aplicativo. Para muitos, durante uma pandemia global onde as fronteiras se tornaram mais concretas do que nunca, deixar de usar o WhatsApp pode significar perder o acesso a aconselhamento médico remoto, deixar de falar ao telefone com um parente doente, não fazer chamadas de vídeo com uma pessoa querida.
 
- 
+
 
 **Em alguns países, a decisão é extremamente penosa para grupos de minorias, imigrantes e comunidades carentes.** Nos Estados Unidos, as comunidades da diáspora são especialmente propensas a se comunicar pelo WhatsApp com amigos e familiares no exterior.[ Mais da metade dos hispano-americanos usam o WhatsApp, em comparação com apenas 16% dos americanos brancos](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/). Em grande parte do Sul Global, restrições econômicas e deficiências na infraestrutura de banda larga limitam a comunicação online ao uso de smartphones. O WhatsApp está entre os meios de comunicação mais viáveis, principalmente nas áreas rurais.
 
- 
+
 
 **O Facebook agiu rápido e quebrou promessas. Os consumidores merecem confiança e respeito, em vez de novas políticas furtivas**. O Facebook, empresa de propriedade e sob o controle de Mark Zuckerberg, já nos decepcionou inúmeras vezes. Há muito tempo, a prática padrão do Facebook é fazer mudanças furtivas nos termos de serviço e políticas de privacidade. Porém, voltar a fazer isso no auge de uma pandemia global, quando mais do que nunca as pessoas dependem da troca de mensagens e comunicação online, demonstra a ganância corporativa de uma empresa que está disposta a fazer qualquer coisa para extrair nossos dados e desconsiderar nossos direitos à privacidade.
 
- 
+
 
 **2014:** WhatsApp atinge 400 milhões de usuários. Facebook compra o WhatsApp.
 
@@ -36,10 +36,12 @@ Além de abusar da posição de monopólio no mercado, **o Facebook violou a pri
 
 ●   “Estamos desenvolvendo novos recursos para facilitar transações comerciais dentro do aplicativo. Estamos desenvolvendo ferramentas para permitir que empresas usem a infraestrutura de hospedagem segura do Facebook para armazenar e gerenciar os bate-papos do WhatsApp, e atualizando a política de privacidade em serviços do WhatsApp para refletir essa experiência opcional.” –[ Mark Zuckerberg](https://voi.id/en/technology/30133/zuckerberg-reveals-reasons-for-implementing-whatsapps-new-privacy-policy)
 
- 
+
 
 **Agora, Mark Zuckerberg pretende que o WhatsApp contribua diretamente para a receita do Facebook às custas da privacidade dos usuários.** O Facebook espera que os usuários “optem” por receber mensagens e interagir com empresas no WhatsApp. Um fator importante por trás dessas interações seriam os dados (e metadados) que a empresa coletou nos últimos anos por meio das contas do Facebook e do WhatsApp, sem o conhecimento de muitos usuários.
 
- 
 
-A nova política, que entra em vigor em 15 de maio, mostra mais uma vez o motivo pelo qual nossos dados não poderiam ser confiados ao Facebook. 
+
+A nova política, que entra em vigor em 15 de maio, mostra mais uma vez o motivo pelo qual nossos dados não poderiam ser confiados ao Facebook.
+
+<a style="margin-top:30px" class="uk-button uk-button-default btn-blue" target="_blank" href="{{site.baseurl_root}}/assets/docs/pt-consumidores.pdf">Baixar como pdf <span uk-icon="download"></span></a>

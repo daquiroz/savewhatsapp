@@ -1,18 +1,17 @@
  > “It is better to buy than compete” –[ Mark Zuckerberg (2008)](https://www.npr.org/2020/12/11/945234491/the-wrath-of-mark-takeaways-from-the-governments-case-against-facebook)
 
 
-
 **Facebook is the dominant company in the global market for social networks.** Billions around the world use Facebook services - Facebook, WhatsApp, and Instagram - in order to connect to friends and family. There are no meaningful alternatives to Facebook’s services. WhatsApp has more than 2 billion users worldwide. This gives it the power to coerce people to stick to any change of rules.
 
 **WhatsApp dominates the market for messaging services in all but 25 countries.** It is the most widely used messenger app in the world, with penetration rates among Internet users aged 16-64 above 90 percent in countries such as[ Kenya, South Africa, Nigeria, Argentina, Colombia, Malaysia, and Brazil.](https://www.businessofapps.com/data/whatsapp-statistics/) The growing market dominance of digital platforms stems from the personal “data” that they collect free of cost from their users, and then use to profile them.
 
- 
+
 
 Competition authorities recognize **Facebook’s data-opoly.**
 
 **“As a dominant company Facebook is subject to special obligations under competition law.** In the operation of its business model the company must take into account that Facebook *users practically cannot switch to other social networks.* In view of Facebook’s superior market power, an obligatory tick on the box to agree to the company’s terms of use is not an adequate basis for such intensive data processing. The only choice the user has is either to accept the comprehensive combination of data or to refrain from using the social network. In such a difficult situation the user’s choice cannot be referred to as voluntary consent." *–*[ German Bundeskartellamt (Competition Authority)](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2019/07_02_2019_Facebook.html;jsessionid=C68DCDF0DFFD5353FE497FB1AAC43195.1_cid387?nn=3591568)*,*2019
 
- 
+
 
 **And competition authorities have the tools to curb Mark Zuckerberg’s power**
 
@@ -28,5 +27,6 @@ Competition authorities recognize **Facebook’s data-opoly.**
 
 We need more regulators to act before it is too late.        
 
+<a style="margin-top:30px" class="uk-button uk-button-default btn-blue" target="_blank" href="{{site.baseurl_root}}/assets/docs/en-competition.pdf">Download as pdf <span uk-icon="download"></span></a>
 
 ​            

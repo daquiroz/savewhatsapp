@@ -2,7 +2,7 @@
 
 
 
-**Facebook es la compañía más importante en el mercado global de las redes sociales.** Miles de millones de personas en todo el mundo usan los servicios de Facebook (Facebook, WhatsApp, e Instagram) para comunicarse con amigos y familiares. No hay alternativas fuertes a los servicios de Facebook. WhatsApp tiene dos mil millones de usuarios. Esto da poder suficiente como para obligar a la gente a que acepte cualquier cambio en las reglas. 
+**Facebook es la compañía más importante en el mercado global de las redes sociales.** Miles de millones de personas en todo el mundo usan los servicios de Facebook (Facebook, WhatsApp, e Instagram) para comunicarse con amigos y familiares. No hay alternativas fuertes a los servicios de Facebook. WhatsApp tiene dos mil millones de usuarios. Esto da poder suficiente como para obligar a la gente a que acepte cualquier cambio en las reglas.
 
 **WhatsApp domina el mercado de los mensajes de mensajería en unos 25 países.** Es la aplicación de mensajería más extendida del mundo, con niveles de penetración entre usuarios de internet de 16 a 64 años de edad y en más del 90% de estos usuarios en países como [Kenia, Sudáfrica, Nigeria, Argentina, Colombia, Malasia y Brasil.](https://www.businessofapps.com/data/whatsapp-statistics/) La dominación creciente en el mercado de las plataformas digitales deriva de los “datos” personales que recolectan de modo gratuito entre sus usuarios y que luego usan para armar sus perfiles.
 
@@ -26,8 +26,10 @@ Las autoridades de competencia reconocen el *datopolio* de Facebook.
 
 🇺🇸 En diciembre de 2020 [la Comisión Federal de Comercio](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization) y [48 fiscales generales](https://ag.ny.gov/press-release/2020/attorney-general-james-leads-multistate-lawsuit-seeking-end-facebooks-illegal) demandaron a Facebook, alegando conductas ilegales y anticompetitivas y pidiendo que se disuelva a Facebook.
 
-🇹🇷 En enero de 2021 [la Autoridad de Competencia Turca](https://www.rekabet.gov.tr/en/Guncel/competition-board-launched-an-investigat-c9382b8cb15ceb11812900505694b4c6) comenzó una investigación sobre Facebook y WhatsApp, enfocándose en los cambios de la aplicación a sus reglas para compartir datos. La autoridad emitió una orden de suspensión de las nuevas reglas de recolección de datos de WhatsApp en Turquía. 
+🇹🇷 En enero de 2021 [la Autoridad de Competencia Turca](https://www.rekabet.gov.tr/en/Guncel/competition-board-launched-an-investigat-c9382b8cb15ceb11812900505694b4c6) comenzó una investigación sobre Facebook y WhatsApp, enfocándose en los cambios de la aplicación a sus reglas para compartir datos. La autoridad emitió una orden de suspensión de las nuevas reglas de recolección de datos de WhatsApp en Turquía.
 
 🇮🇳 En marzo de 2021, la Comisión de Competencia de la India encontró que en los cambios propuestos en 2021 por WhatsApp, con los que se busca compartir datos con Facebook, es a *prima facie* un abuso de su predominio y ordenó una investigación que deberá completarse dentro de 60 días.
 
-Necesitamos que más organismos reguladores actúen antes de que sea demasiado tarde. 
+Necesitamos que más organismos reguladores actúen antes de que sea demasiado tarde.
+
+<a style="margin-top:30px" class="uk-button uk-button-default btn-blue" target="_blank" href="{{site.baseurl_root}}/assets/docs/es-competencia.pdf">Descargar como pdf <span uk-icon="download"></span></a>

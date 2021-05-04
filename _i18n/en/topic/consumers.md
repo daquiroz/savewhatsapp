@@ -1,18 +1,18 @@
 > “Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.” –[ Mark Zuckerberg](https://www.businessinsider.in/Mark-Zuckerberg-Turns-30-Today-160Heres-His-Life-In-Pictures-And-Quotes/Move-fast-and-break-things-Unless-you-are-breaking-stuff-you-are-not-moving-fast-enough-/slideshow/35123191.cms)
 
- 
+
 
 **A threat to disconnect in the middle of a global pandemic.** Two billion users are forced to either accept the new terms imposed by Facebook or abandon a network of family, friends, clients, and contacts built over the years and with whom they often communicate daily over the app. During a global pandemic, where borders have become more real than ever, for many losing WhatsApp could mean no access to remote medical advice, no calls to a sick relative, no video call with loved one.
 
- 
+
 
 **In some countries, the decision is extremely taxing for minorities, immigrants and poor communities.** In the United States, diaspora communities are especially likely to use WhatsApp to communicate with friends and family abroad.[ Nearly half of Hispanic Americans use WhatsApp compared to just 16 percent of white Americans](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/). Economic constraints and poor broadband infrastructure limit everyday online communication to the use of smartphones in much of the Global South. WhatsApp is among the viable means of communication, particularly in rural areas.
 
- 
+
 
 **Facebook moved fast and broke promises: Consumers deserve trust and respect rather than sneaky new policies**. Facebook, owned and controlled by Mark Zuckerberg, has failed us over and over again. Making sneaky changes to terms of service and privacy policies has long been Facebook’s pattern. Doing so once again at the height of a global pandemic, when people are relying more than ever on online messaging and communications, reflects a corporate greed willing to go to any length to extract our data and disregard our privacy rights.
 
- 
+
 
 **2014:** WhatsApp reaches 400 million users. Facebook buys WhatsApp.
 
@@ -36,10 +36,12 @@
 
 ●   “We are building new features to make it easier to make a business transaction within the application. We are building tools to allow businesses to store and manage their WhatsApp chats using Facebook's secure hosting infrastructure if they wish and we are in the process of updating WhatsApp's privacy policy on services to reflect this optional experience.” –[ Mark Zuckerberg](https://voi.id/en/technology/30133/zuckerberg-reveals-reasons-for-implementing-whatsapps-new-privacy-policy)
 
- 
+
 
 **Now, Zuckerberg intends for WhatsApp to contribute directly to Facebook revenues -- at the expense of user privacy.** Facebook hopes to see user’s “opt-in” to business messaging and interact with businesses on WhatsApp. A major driver behind these interactions would be the data (and metadata) that Facebook has collected on users through both Facebook and WhatsApp accounts for the past years, unbeknownst to many users.
 
- 
 
-The upcoming May 15 policy change shows once again why Facebook cannot be trusted with our data. 
+
+The upcoming May 15 policy change shows once again why Facebook cannot be trusted with our data.
+
+<a style="margin-top:30px" class="uk-button uk-button-default btn-blue" target="_blank" href="{{site.baseurl_root}}/assets/docs/en-consumers.pdf">Download as pdf <span uk-icon="download"></span></a>

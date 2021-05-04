@@ -7,6 +7,11 @@ items:
     actions_pt: Organizando eventos públicos
     featured: true
     logo: /assets/uploads/public_citizen.png
+  - name: Access Now
+    country: Global
+    website: https://www.accessnow.org/
+    featured: false
+    logo: /assets/uploads/access-now.png
   - name: Association for Progressive Communications
     country: Global
     website: https://www.apc.org/

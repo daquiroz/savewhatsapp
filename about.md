@@ -11,3 +11,4 @@ title_pt: Sobre a campanha
 <div class="uk-width-2xlarge uk-text-justify uk-align-center">
   {% translate_file about.md %}
 </div>
+{%- include coalition_section.html -%}

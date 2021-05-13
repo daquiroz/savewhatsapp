@@ -11,3 +11,4 @@ title_pt: Letter to Mr. Zuckerberg
 <div class="uk-width-2xlarge uk-text-justify uk-align-center">
   {% translate_file letter.md %}
 </div>
+{%- include coalition_section.html -%}

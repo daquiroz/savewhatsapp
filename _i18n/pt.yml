@@ -4,7 +4,7 @@ header_home:
 navbar:
   about: Sobre a campanha 
 letter_banner:
-  title: This is our letter to Mr. Mark Zuckerberg
+  title: Conheça nossa carta aberta ao Sr. Zuckerberg
 problems_section:
   title: "O que o Facebook não vai te contar"
   competition_title: "Por que é um problema para a competição"
@@ -18,16 +18,16 @@ buttons:
   read_letter_web: "Leia a carta aberta ao Facebook e WhatsApp"
   read_letter_mobile: "Leia a carta aberta"
   register_here: "Register here"
-  read_coalition_letter: Read the coalition letter!
-  read: Read
+  read_coalition_letter: Leia a carta aberta da aliança!
+  read: Leia
 video_section:
   title: "Contagem regressiva para Mark"
-  description: "O WhatsApp está sob ataque. O tempo está se esgotando para Mark Zuckerberg reverter a decisão de mudar a política de privacidade do WhatsApp e delegar a todos os usuários o poder de proteger os próprios dados pessoais.<br>
+  description: "O WhatsApp está sob ataque. O mais recente adiamento da nova política do Facebook – em face da indignação generalizada – é uma forma de confundir e intimidar os usuários com notificações constantes. O tempo está se esgotando para Mark Zuckerberg reverter a decisão de mudar a política de privacidade do WhatsApp e delegar a todos os usuários o poder de proteger os próprios dados pessoais.<br>
     Nós, cidadãos, ativistas, legisladores e usuários do WhatsApp em todo o mundo, estamos nos organizando para recuperar nossa privacidade, rejeitar a nova política e levantar nossa voz para dizer:<br>
     <strong>Pare o Facebook. Salve o WhatsApp.</strong>"
 letter_section:
-  title: "Letter to Mr. Zuckerberg"
-  content: "We, the undersigned, urge you to stop intimidating users reliant on WhatsApp to accept its latest privacy policy."
+  title: "Carta aberta ao Sr. Zuckerberg"
+  content: "Quienes firman al final de esta carta le urgen detener la intimidación de la que han sido objeto los usuarios que cuentan con WhatsApp para que acepten la nueva política de privacidad."
 organizations_section:
   title: "Um movimento global para exigir ação"
   subtitle: PT Authorities across the planet unite to Save WhatsApp, Stop Facebook

@@ -3,6 +3,8 @@ header_home:
   subtitle: "Mark Zuckerberg está mentindo para você. Está na hora colocar um ponto final nesse abuso corporativo e salvar o WhatsApp para todos."
 navbar:
   about: Sobre a campanha 
+letter_banner:
+  title: Know our letter to Mr. Mark Zuckerberg
 problems_section:
   title: "O que o Facebook não vai te contar"
   competition_title: "Por que é um problema para a competição"
@@ -16,11 +18,16 @@ buttons:
   read_letter_web: "Leia a carta aberta ao Facebook e WhatsApp"
   read_letter_mobile: "Leia a carta aberta"
   register_here: "Register here"
+  read_coalition_letter: Read the coalition letter!
+  read: Read
 video_section:
   title: "Contagem regressiva para Mark"
   description: "O WhatsApp está sob ataque. O tempo está se esgotando para Mark Zuckerberg reverter a decisão de mudar a política de privacidade do WhatsApp e delegar a todos os usuários o poder de proteger os próprios dados pessoais.<br>
     Nós, cidadãos, ativistas, legisladores e usuários do WhatsApp em todo o mundo, estamos nos organizando para recuperar nossa privacidade, rejeitar a nova política e levantar nossa voz para dizer:<br>
     <strong>Pare o Facebook. Salve o WhatsApp.</strong>"
+letter_section:
+  title: "Letter to Mr. Zuckerberg"
+  content: "We, the undersigned, urge you to stop intimidating users reliant on WhatsApp to accept its latest privacy policy."
 organizations_section:
   title: "Um movimento global para exigir ação"
   subtitle: PT Authorities across the planet unite to Save WhatsApp, Stop Facebook

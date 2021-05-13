@@ -3,6 +3,8 @@ header_home:
   subtitle: "Mark Zuckerberg is lying to you. It’s time to stop his corporate abuse and save WhatsApp for all."
 navbar:
   about: About us
+letter_banner:
+  title: Know our letter to Mr. Mark Zuckerberg
 problems_section:
   title: What Facebook won't tell you
   competition_title: Why this is a problem for competition
@@ -16,14 +18,19 @@ buttons:
   read_letter_web: Read their letter to Facebook and Whatsapp
   read_letter_mobile: Read the letter
   register_here: "Register"
+  read_coalition_letter: Read the coalition letter!
+  read: Read
 video_section:
   title: Countdown for Mark
   description: |
-    WhatsApp is under attack. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data. <br>
+    WhatsApp is under attack. Facebook's latest delay to the new policy – in the face of widespread user outrage - is a way to confuse and intimidate users with constant notifications. Time is running out for Mark Zuckerberg to reverse his decision to change WhatsApp’s privacy policy and empower all users to protect their personal data. <br>
 
     We are citizens, activists, lawmakers, and WhatsApp users around the world, and we are organizing to reclaim our privacy, reject the policy, and raise our voices to say: <br>
 
     <strong>Stop Facebook. Save WhatsApp.</strong>
+letter_section:
+  title: "Letter to Mr. Zuckerberg"
+  content: "We, the undersigned, urge you to stop intimidating users reliant on WhatsApp to accept its latest privacy policy."
 organizations_section:
   title: A GLOBAL MOVEMENT FOR ACTION
   subtitle: Authorities across the planet unite to Save WhatsApp, Stop Facebook

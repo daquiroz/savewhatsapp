@@ -1,0 +1,13 @@
+Estimado señor Zuckerberg,
+
+Quienes firman al final de esta carta le urgen detener la intimidación de la que han sido objeto los usuarios que cuentan con WhatsApp para que acepten la nueva política de privacidad. Facebook debe restaurar el derecho individual de cada persona a determinar cómo sus datos privados y personales son recolectados y utilizados en WhatsApp. 
+
+El modelo potencial de negocio de Facebook se basa en la integración extendida entre WhatsApp y Facebook a fin de beneficiar sus propios objetivos a costa de la privacidad de los usuarios. Facebook muestra gran dedicación en la explotación continua de datos venidos de WhatsApp para hacer avanzar sus intereses comerciales y de marketing. Facebook ha demostrado una y otra vez que sencillamente no es digno de confianza para salvaguardar nuestra privacidad o nuestros datos. 
+
+Facebook anunció su intención de desplegar estas últimas actualizaciones para WhatsApp en enero de 2021, planeando inicialmente que los cambios tuvieran lugar el 8 de febrero del mismo año. Sin embargo, la fuerte reacción pública contribuyó más de una vez al atraso de la fecha. Poco después del primer anuncio la fecha se movió al 15 de mayo. Ahora Facebook opta por una estrategia que ya se conoce: tranquilizar a los usuarios sin hacer modificaciones y continuar forzando la actualización de todas formas.
+ 
+El 7 de mayo, WhatsApp anunció un plazo opaco de “algunas semanas” para los usuarios que estuvieran intentando guardar sus datos y rechazar luego del cambio de política de privacidad. Estos usuarios verán la aplicación perder efectividad eventualmente. Al mismo tiempo, reciben notificaciones recurrentes que les recuerdan que deben aceptar los nuevos términos o dejar el servicio, y con él, conexiones invaluables con amigos y seres queridos. De acuerdo con WhatsApp, la mayoría de los usuarios que ya hayan aceptado las condiciones serán, de todos modos, objeto de los términos y condiciones actualizados el 15 de mayo. 
+
+Facebook insiste en que está a la escucha de los usuarios y de sus preocupaciones, pero hasta ahora no ha tomado ninguna acción significativa para revertir el curso de una acumulación de datos cada vez más grande. A pesar de llamados internacionales persistentes en los que se exhorta a Facebook a respetar la privacidad de las personas, los planes que se han revisado y actualizado continúan teniendo las mismas prácticas de negocio basadas en la explotación de estos derechos básicos como su prioridad principal. 
+
+Le pedimos que deje de pedir inmediatamente a los usuarios de WhatsApp que acepten una política de privacidad deteriorada y que cambie el curso de esta estrategia que actúa en detrimento de las comunicaciones globales.

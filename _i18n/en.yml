@@ -13,7 +13,7 @@ problems_section:
 buttons:
   learn_more: Learn More
   more_to_share: More To Share
-  join_event: Join event
+  join_event: See event
   see_all: See all
   read_letter_web: Read their letter to Facebook and Whatsapp
   read_letter_mobile: Read the letter
@@ -62,6 +62,6 @@ spread_the_word:
   title: "MORE TO SHARE"
   subtitle: "Share our materials with the hashtag #SaveWhatsApp and spread the word"
 events:
-  title: Next events
+  title: Last events
 footer:
   privacy_policy: Privacy policy
